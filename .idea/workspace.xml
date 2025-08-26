@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f967c926-a66f-4095-ae73-0df8f98a76f0" name="Changes" comment="">
+    <list default="true" id="f967c926-a66f-4095-ae73-0df8f98a76f0" name="Changes" comment="Last commit">
       <change afterPath="D:/findPapers/.gitignore" afterDir="false" />
       <change afterPath="D:/findPapers/.idea/.gitignore" afterDir="false" />
       <change afterPath="D:/findPapers/.idea/encodings.xml" afterDir="false" />
@@ -117,24 +117,28 @@
       <workItem from="1749463568943" duration="4431000" />
       <workItem from="1750144468923" duration="22600000" />
       <workItem from="1750250852345" duration="122000" />
-      <workItem from="1756199031421" duration="3379000" />
+      <workItem from="1756199031421" duration="5943000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://D:/findPapers/src/main/java/org/example/Main.java</url>
-          <line>199</line>
+          <line>178</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://D:/findPapers/src/main/java/org/example/Main.java</url>
-          <line>332</line>
+          <line>309</line>
           <properties class="org.example.Main" method="fetchFromIEEE">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -143,7 +147,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://D:/findPapers/src/main/java/org/example/Main.java</url>
-          <line>270</line>
+          <line>248</line>
           <properties class="org.example.Main" method="fetchFromElsevier">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

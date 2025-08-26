@@ -23,50 +23,29 @@ import javax.net.ssl.*;
 public class Main {
 
 
-    static String SPRINGER_API_KEY = "**********************";
-    static String ELSEVIER_API_KEY = "**********************";
-    static String IEEE_API_KEY = "**********************";
-    static int PAGE_SIZE = 20;
-    static String q = "";
+    static final String SPRINGER_API_KEY = "6b3d8b5944d908e74b2f4aaf394518cc";
+    static final String ELSEVIER_API_KEY = "b6af13427d79986a49b8c12105006181";
+    static final String IEEE_API_KEY = "q8zt6u97bwdtbs8kbnqq8r2t";
+    static final int PAGE_SIZE = 20;
 
     public static void main(String[] args) {
         try {
+            System.setProperty("http.proxyHost", "proxy-us.sonelgaz.dz");
+            System.setProperty("http.proxyPort", "7070");
+            System.setProperty("https.proxyHost", "proxy-us.sonelgaz.dz");
+            System.setProperty("https.proxyPort", "7070");
 
-
-            Map<String, String> params = new HashMap<>();
-
-            // Simple parser: look for "-flag value"
-            for (int i = 0; i < args.length - 1; i++) {
-                if (args[i].startsWith("-")) {
-                    params.put(args[i].substring(1), args[i + 1]); // remove "-"
-                }
-            }
-
-            if (params.size() > 3) {
-                SPRINGER_API_KEY = params.getOrDefault("springerApi", "");
-                ELSEVIER_API_KEY = params.getOrDefault("elsevierApi", "");
-                IEEE_API_KEY = params.getOrDefault("ieeeApi", "");
-                PAGE_SIZE = Integer.parseInt(params.getOrDefault("pageSize", "20"));
-                q = params.getOrDefault("query", "");
-            }
-            // Extract values with defaults
-
-
-          /*  System.setProperty("http.proxyHost", "**");
-            System.setProperty("http.proxyPort", "**");
-            System.setProperty("https.proxyHost", "**");
-            System.setProperty("https.proxyPort", "**");
-
-            System.setProperty("http.proxyUser", "***");
-            System.setProperty("http.proxyPassword", "***");
+// si authentification :
+            System.setProperty("http.proxyUser", "cherchar.mohamed");
+            System.setProperty("http.proxyPassword", "091994BissouBissa***");
 
             Authenticator.setDefault(new Authenticator() {
                 @Override
                 protected PasswordAuthentication getPasswordAuthentication() {
-                    return new PasswordAuthentication("****", "***".toCharArray());
+                    return new PasswordAuthentication("cherchar.mohamed", "091994BissouBissa***".toCharArray());
                 }
             });
-            SslUtil.disableSslVerification();*/
+            SslUtil.disableSslVerification();
 
             List<Article> allArticles = new ArrayList<>();
 
@@ -199,7 +178,6 @@ public class Main {
     static List<Article> fetchFromSpringer() throws Exception {
         List<Article> articles = new ArrayList<>();
         String query = "((\"System of Systems\" OR \"Systems of Systems\" OR \"System-of-Systems\" OR \"Systems-of-Systems\" ) AND " + "(\"security\" OR \"risk assessment\" OR \"risk management\" )) AND " + "(datefrom:2015-01-01 and dateto:2025-05-01) AND type:{(Journal)}";
-        if (!q.isEmpty()) query = QueryBuilder.forSpringer(q);
         String encodedQuery = URLEncoder.encode(query, "UTF-8");
 
         int start = 1;
@@ -270,8 +248,7 @@ public class Main {
 
     static List<Article> fetchFromElsevier() throws Exception {
         List<Article> articles = new ArrayList<>();
-        String query = "TITLE-ABS-KEY((\"System of Systems\" OR \"Systems of Systems\" OR \"System-of-Systems\" OR \"Systems-of-Systems\") AND " + "(\"security\" OR \"risk assessment\" OR \"risk management\")) AND PUBYEAR > 2014";
-        if (!q.isEmpty()) query = QueryBuilder.forElsevier(q);
+        String query = "TITLE-ABS-KEY((\"System of Systems\" OR \"Systems of Systems\" OR \"System-of-Systems\" OR \"Systems-of-Systems\") AND " + "(\"security\" OR \"risk assessment\" OR \"risk management\")) AND PUBYEAR > 2015";
         String encodedQuery = URLEncoder.encode(query, "UTF-8");
 
         String[] sources = {"https://api.elsevier.com/content/search/scopus",
@@ -333,7 +310,6 @@ public class Main {
     static List<Article> fetchFromIEEE() throws Exception {
         List<Article> articles = new ArrayList<>();
         String query = "(\"System of Systems\" OR \"Systems of Systems\" OR \"System-of-Systems\" OR \"Systems-of-Systems\") AND " + "(\"security\" OR \"risk assessment\" OR \"risk management\")";
-        if (!q.isEmpty()) query = QueryBuilder.forIEEE(q);
         String encodedQuery = URLEncoder.encode(query, "UTF-8");
 
         int startRecord = 1;
@@ -402,7 +378,6 @@ public class Main {
     static List<Article> fetchFromCrossref() throws Exception {
         List<Article> articles = new ArrayList<>();
         String query = "System of Systems Systems-of-Systems security risk assessment risk management";
-        if (!q.isEmpty()) query = QueryBuilder.forCrossref(q);
         String encodedQuery = URLEncoder.encode(query, StandardCharsets.UTF_8);
 
         int rows = 100; // Max allowed per page
@@ -595,24 +570,5 @@ class SslUtil {
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }
-}
-
-class QueryBuilder {
-
-    static String forSpringer(String userQuery) {
-        return String.format("(%s) AND (datefrom:2015-01-01 and dateto:2025-05-01) AND type:{(Journal)}", userQuery);
-    }
-
-    static String forElsevier(String userQuery) {
-        return String.format("TITLE-ABS-KEY(%s) AND PUBYEAR > 2015", userQuery);
-    }
-
-    static String forIEEE(String userQuery) {
-        return String.format("(%s)", userQuery); // IEEE supports AND/OR in plain text
-    }
-
-    static String forCrossref(String userQuery) {
-        return userQuery; // Crossref accepts free text
     }
 }

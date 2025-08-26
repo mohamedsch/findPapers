@@ -1,191 +1,93 @@
-CrossRef: 1000 articles
-SpringerLink: 1110 articles
-Scopus: 841 articles
-IEEE Xplore: 412 articles
-Exported 3363 articles to AllArticles.pdf
+
+CrossRef: 1500 articles
+SpringerLink: 1105 articles
+Scopus: 776 articles
+IEEE Xplore: 437 articles
+Exported 3818 articles to AllArticles.pdf
 Duplicate DOI: 10.1109/APSEC48747.2019.00056
   Source: Scopus | Title: Using Bayesian Networks for a Cyberattacks Propagation Analysis in Systems-of-Systems
   Source: IEEE Xplore | Title: Using Bayesian Networks for a Cyberattacks Propagation Analysis in Systems-of-Systems
 Duplicate DOI: 10.1109/SEFET61574.2024.10718100
   Source: Scopus | Title: Pre-Installation Techno-Economic Feasibility Studies of a Food-Energy Park as a Community MG
   Source: IEEE Xplore | Title: Pre-Installation Techno-Economic Feasibility Studies of a Food-Energy Park as a Community MG
-Duplicate DOI: 10.1109/JSEN.2020.3004275
-  Source: Scopus | Title: Cybersecurity Attacks in Vehicular Sensors
-  Source: IEEE Xplore | Title: Cybersecurity Attacks in Vehicular Sensors
+Duplicate DOI: 10.1109/ICSA-C65153.2025.00032
+  Source: Scopus | Title: Identifying and Architecting Microservices for Edge Computing
+  Source: IEEE Xplore | Title: Identifying and Architecting Microservices for Edge Computing
 Duplicate DOI: 10.1109/CSR61664.2024.10679396
   Source: Scopus | Title: The Need for Cyber-Resilience in Complex Systems
   Source: IEEE Xplore | Title: The Need for Cyber-Resilience in Complex Systems
-Duplicate DOI: 10.1109/ISCO.2015.7282328
-  Source: Scopus | Title: Reduction of error rate in Sybil attack detection for MANET
-  Source: IEEE Xplore | Title: Reduction of error rate in Sybil attack detection for MANET
-Duplicate DOI: 10.1007/s00163-016-0229-0
-  Source: SpringerLink | Title: Supporting design via the System Operational Dependency Analysis methodology
-  Source: Scopus | Title: Supporting design via the System Operational Dependency Analysis methodology
 Duplicate DOI: 10.1109/ACCESS.2018.2865683
   Source: Scopus | Title: Hybrid Simulation and Test of Vessel Traffic Systems on the Cloud
   Source: IEEE Xplore | Title: Hybrid Simulation and Test of Vessel Traffic Systems on the Cloud
-Duplicate DOI: 10.1109/JSYST.2013.2295961
-  Source: Scopus | Title: System of systems for quality-of-service observation and response in cloud computing environments
-  Source: IEEE Xplore | Title: System of Systems for Quality-of-Service Observation and Response in Cloud Computing Environments
 Duplicate DOI: 10.1109/TITS.2019.2955359
   Source: Scopus | Title: Risk Assessment of an Electrical Power System Considering the Influence of Traffic Congestion on a Hypothetical Scenario of Electrified Transportation System in New York State
   Source: IEEE Xplore | Title: Risk Assessment of an Electrical Power System Considering the Influence of Traffic Congestion on a Hypothetical Scenario of Electrified Transportation System in New York State
-Duplicate DOI: 10.1109/ICSTCC.2017.8107108
-  Source: Scopus | Title: The industrial internet of things and cyber security: An ecological and systemic perspective on security in digital industrial ecosystems
-  Source: IEEE Xplore | Title: The industrial internet of things and cyber security: An ecological and systemic perspective on security in digital industrial ecosystems
 Duplicate DOI: 10.1109/EDUCON.2018.8363477
   Source: Scopus | Title: Industry-university collaboration on IoT cyber security education: Academic course: 'Resilience of Internet of Things and cyber-physical systems'
   Source: IEEE Xplore | Title: Industry-university collaboration on IoT cyber security education: Academic course: "Resilience of Internet of Things and cyber-physical systems"
 Duplicate DOI: 10.1109/MILCOM55135.2022.10017976
   Source: Scopus | Title: Threat framework for 5G cellular communications
   Source: IEEE Xplore | Title: Threat framework for 5G cellular communications
-Duplicate DOI: 10.1109/JSYST.2018.2876836
-  Source: Scopus | Title: Conceptualization of a System-of-Systems in the Defense Domain: An Experience Report in the Brazilian Scenario
-  Source: IEEE Xplore | Title: Conceptualization of a System-of-Systems in the Defense Domain: An Experience Report in the Brazilian Scenario
 Duplicate DOI: 10.1631/FITEE.1900384
   Source: SpringerLink | Title: Design innovation of mesoscale robotic swarms: applications to cooperative urban sensing and mapping
   Source: Scopus | Title: Design innovation of mesoscale robotic swarms: applications to cooperative urban sensing and mapping
-Duplicate DOI: 10.1109/SIEDS.2016.7489299
-  Source: Scopus | Title: Systems-based cyber security in the supply chain
-  Source: IEEE Xplore | Title: Systems-based cyber security in the supply chain
-Duplicate DOI: 10.1109/SYSOSE.2017.7994973
-  Source: Scopus | Title: CyberSecurity considerations for an interconnected self-driving car system of systems
-  Source: IEEE Xplore | Title: CyberSecurity considerations for an interconnected self-driving car system of systems
-Duplicate DOI: 10.1109/DSN-W60302.2024.00030
-  Source: Scopus | Title: Cybersecurity Pathways Towards CE-Certified Autonomous Forestry Machines
-  Source: IEEE Xplore | Title: Cybersecurity Pathways Towards CE-Certified Autonomous Forestry Machines
 Duplicate DOI: 10.1016/j.cose.2022.102690
   Source: Crossref | Title: Assessing system of systems information security risk with OASoSIS
   Source: Scopus | Title: Assessing system of systems information security risk with OASoSIS
-Duplicate DOI: 10.1109/ACCESS.2021.3102280
-  Source: Scopus | Title: Automated and Secure Onboarding for System of Systems
-  Source: IEEE Xplore | Title: Automated and Secure Onboarding for System of Systems
 Duplicate DOI: 10.1007/s42524-025-4179-y
   Source: SpringerLink | Title: CSoS-STRE: A combat system-of-system space-time resilience enhancement framework
   Source: Scopus | Title: CSoS-STRE: A combat system-of-system space-time resilience enhancement framework
 Duplicate DOI: 10.1109/REW.2017.36
   Source: Scopus | Title: From requirements to operation: Components for risk assessment in a pervasive system of systems
   Source: IEEE Xplore | Title: From Requirements to Operation: Components for Risk Assessment in a Pervasive System of Systems
-Duplicate DOI: 10.1109/SYSOSE.2017.7994934
-  Source: Scopus | Title: Modeling human-technology interaction as a sociotechnical system of systems
-  Source: IEEE Xplore | Title: Modeling human-technology interaction as a sociotechnical system of systems
 Duplicate DOI: 10.1109/FAS-W.2018.00053
   Source: Scopus | Title: Improving security and interoperability of interwoven systems through rigorous selective encapsulation of critical physical resources
   Source: IEEE Xplore | Title: Improving Security and Interoperability of Interwoven Systems through Rigorous Selective Encapsulation of Critical Physical Resources
-Duplicate DOI: 10.1109/SYSOSE.2017.7994949
-  Source: Scopus | Title: Red teaming in the age of IOT: Thoughts on framing the next generation of technical vulnerability assessment
-  Source: IEEE Xplore | Title: Red teaming in the age of IOT: Thoughts on framing the next generation of technical vulnerability assessment
 Duplicate DOI: 10.1109/DASC55683.2022.9925731
   Source: Scopus | Title: Validation of Assurance Case for Dynamic Systems
   Source: IEEE Xplore | Title: Validation of Assurance Case for Dynamic Systems
 Duplicate DOI: 10.1109/SysCon53073.2023.10131153
   Source: Scopus | Title: A System Architecture Approach to Risks Prioritization in Multi-disciplinary Engineering Projects
   Source: IEEE Xplore | Title: A System Architecture Approach to Risks Prioritization in Multi-disciplinary Engineering Projects
-Duplicate DOI: 10.1109/GIOTS.2017.8016280
-  Source: Scopus | Title: Securing user identity and transactions symbiotically: IoT meets blockchain
-  Source: IEEE Xplore | Title: Securing user identity and transactions symbiotically: IoT meets blockchain
-Duplicate DOI: 10.1109/ICSA-C50368.2020.00050
-  Source: Scopus | Title: Risk Management for System of Systems: A Systematic Mapping Study
-  Source: IEEE Xplore | Title: Risk Management for System of Systems: A Systematic Mapping Study
-Duplicate DOI: 10.1109/SESoS-WDES52566.2021.00007
-  Source: Scopus | Title: Will safety-security co-engineering pay off? A quality and cost perspective in two case studies
-  Source: IEEE Xplore | Title: Will safety-security co-engineering pay off? A quality and cost perspective in two case studies
-Duplicate DOI: 10.1109/ICEET53442.2021.9659739
-  Source: Scopus | Title: Reference Architectures for Smart Grids: Towards a Standard-based Comparative Framework
-  Source: IEEE Xplore | Title: Reference Architectures for Smart Grids: Towards a Standard-based Comparative Framework
 Duplicate DOI: 10.23919/SpliTech58164.2023.10193084
   Source: Scopus | Title: Towards an automated security-by-design approach in automotive system-of-systems architectures
   Source: IEEE Xplore | Title: Towards an automated security-by-design approach in automotive system-of-systems architectures
-Duplicate DOI: 10.1145/2968456.2974043
-  Source: Scopus | Title: Self-aware systems for the Internet-of-Things
-  Source: Scopus | Title: Self-Aware systems for the Internet-of-Things
-Duplicate DOI: 10.1186/s40648-023-00245-z
-  Source: SpringerLink | Title: A SafeML extension for a unified risk assessment to diverse service robots
-  Source: Scopus | Title: A SafeML extension for a unified risk assessment to diverse service robots
 Duplicate DOI: 10.1109/CEWIT.2017.8263141
   Source: Scopus | Title: Cybersecurity challenges of systems-of-systems for fully-autonomous road vehicles
   Source: IEEE Xplore | Title: Cybersecurity challenges of systems-of-systems for fully-autonomous road vehicles
 Duplicate DOI: 10.1109/ICNSC.2017.8000176
   Source: Scopus | Title: A modelling & simulation based engineering approach for socio-cyber-physical systems
   Source: IEEE Xplore | Title: A modelling & simulation based engineering approach for socio-cyber-physical systems
-Duplicate DOI: 10.1109/CYCON.2016.7529435
-  Source: Scopus | Title: Weapons systems and cyber security-a challenging union
-  Source: IEEE Xplore | Title: Weapons systems and cyber security - a challenging union
 Duplicate DOI: 10.1109/DSD.2018.00033
   Source: Scopus | Title: COSSIM: An open-source integrated solution to address the simulator gap for systems of systems
   Source: IEEE Xplore | Title: COSSIM: An Open-Source Integrated Solution to Address the Simulator Gap for Systems of Systems
-Duplicate DOI: 10.1109/SECONWorkshops50264.2020.9149779
-  Source: Scopus | Title: A Benchmark of Security Metrics in Cyber-Physical Systems
-  Source: IEEE Xplore | Title: A Benchmark of Security Metrics in Cyber-Physical Systems
-Duplicate DOI: 10.1109/SYSCON.2015.7116816
-  Source: Scopus | Title: An autonomic approach to extend the business value of a legacy order fulfillment system
-  Source: IEEE Xplore | Title: An autonomic approach to extend the business value of a legacy order fulfillment system
 Duplicate DOI: 10.1109/SERVICES.2019.00017
   Source: Scopus | Title: Investigating attack propagation in a SoS via a service decomposition
   Source: IEEE Xplore | Title: Investigating Attack Propagation in a SoS via a Service Decomposition
 Duplicate DOI: 10.1109/HPCS.2018.00169
   Source: Scopus | Title: Enhancing Usage Control for Performance: A Proposal for Systems of Systems (Research Poster)
   Source: IEEE Xplore | Title: Enhancing Usage Control for Performance: A Proposal for Systems of Systems (Research Poster)
-Duplicate DOI: 10.1007/s10207-023-00757-0
-  Source: SpringerLink | Title: A systematic mapping study on security for systems of systems
-  Source: Scopus | Title: A systematic mapping study on security for systems of systems
 Duplicate DOI: 10.1109/MC.2018.3011052
   Source: Scopus | Title: Accountability in the IoT: Systems, Law, and Ways Forward
   Source: IEEE Xplore | Title: Accountability in the IoT: Systems, Law, and Ways Forward
-Duplicate DOI: 10.1109/JSYST.2020.2993323
-  Source: Scopus | Title: Industrial Frameworks for Internet of Things: A Survey
-  Source: IEEE Xplore | Title: Industrial Frameworks for Internet of Things: A Survey
-Duplicate DOI: 10.1109/ICSAI.2018.8599363
-  Source: Scopus | Title: An Architecture of System of Systems (SoS) for Commercial Flight Security in 5G OGCE
-  Source: IEEE Xplore | Title: An Architecture of System of Systems (SoS) for Commercial Flight Security in 5G OGCE
 Duplicate DOI: 10.1109/ICCI-CC.2016.7862027
   Source: Scopus | Title: Zero-crossing analysis of Lévy walks for real-time feature extraction: Composite signal analysis for strengthening the IoT against DDoS attacks
   Source: IEEE Xplore | Title: Zero-crossing analysis of Lévy walks for real-time feature extraction: Composite signal analysis for strengthening the IoT against DDoS attacks
-Duplicate DOI: 10.1109/DESSERT.2019.8770034
-  Source: Scopus | Title: Multilevel Fuzzy Logic-Based Approach for Critical Energy Infrastructure's Cyber Resilience Assessment
-  Source: IEEE Xplore | Title: Multilevel Fuzzy Logic-Based Approach for Critical Energy Infrastructure’s Cyber Resilience Assessment
 Duplicate DOI: 10.1109/ACDT.2018.8592979
   Source: Scopus | Title: Opinion formation for decision making process in command, control, communications, computers, intelligence, surveillance, and reconnaissance
   Source: IEEE Xplore | Title: Opinion Formation for Decision Making Process in Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance
-Duplicate DOI: 10.1201/b19322
-  Source: Scopus | Title: Global food security support analysis data at nominal 1 km (GFSAD1km) derived from remote sensing in support of food security in the twenty-first century: Current achievements and future possibilities
-  Source: Scopus | Title: Multiscale habitat mapping and monitoring using satellite data and advanced image analysis techniques
-Duplicate DOI: 10.1109/WFCS.2015.7160577
-  Source: Scopus | Title: Evaluation of open source SIEM for situation awareness platform in the smart grid environment
-  Source: IEEE Xplore | Title: Evaluation of open source SIEM for situation awareness platform in the smart grid environment
 Duplicate DOI: 10.1109/JSYST.2016.2588284
   Source: Scopus | Title: System-of-Systems to Support Mobile Safety Critical Applications: Open Challenges and Viable Solutions
   Source: IEEE Xplore | Title: System-of-Systems to Support Mobile Safety Critical Applications: Open Challenges and Viable Solutions
-Duplicate DOI: 10.1109/EnCyCriS52570.2021.00008
-  Source: Scopus | Title: Attack-driven Test Case Generation Approach using Model-checking Technique for Collaborating Systems
-  Source: IEEE Xplore | Title: Attack-driven Test Case Generation Approach using Model-checking Technique for Collaborating Systems
 Duplicate DOI: 10.1109/ICECCS.2017.31
   Source: Scopus | Title: A Model Driven Method to Design and Analyze Secure Architectures of Systems-of-Systems
   Source: IEEE Xplore | Title: A Model Driven Method to Design and Analyze Secure Architectures of Systems-of-Systems
-Duplicate DOI: 10.1016/B978-0-12-811373-8.09990-0
-  Source: Scopus | Title: Intelligent data-centric critical systems: Security and resilience key challenges
-  Source: Scopus | Title: Intelligent Data-Centric Critical Systems: Security and Resilience Key Challenges
-Duplicate DOI: 10.1109/ISSREW60843.2023.00069
-  Source: Scopus | Title: Validating the BIECO Security Evaluation Methodology within a Smart Grid Monitoring SW
-  Source: IEEE Xplore | Title: Validating the BIECO Security Evaluation Methodology within a Smart Grid Monitoring SW
-Duplicate DOI: 10.1109/ICNS65417.2025.10976786
-  Source: Scopus | Title: Towards Continuous Security Assessment: Integrating Model-Based Risk Assessment and Large Language Models
-  Source: IEEE Xplore | Title: Towards Continuous Security Assessment: Integrating Model-Based Risk Assessment and Large Language Models
 Duplicate DOI: 10.1109/SYSOSE.2016.7542908
   Source: Scopus | Title: Use case based approach for an integrated consideration of safety and security aspects for smart home applications
   Source: IEEE Xplore | Title: Use case based approach for an integrated consideration of safety and security aspects for smart home applications
-Duplicate DOI: 10.23919/DATE64628.2025.10992708
-  Source: Scopus | Title: Cybersecurity Challenges of Autonomous Systems
-  Source: IEEE Xplore | Title: Cybersecurity Challenges of Autonomous Systems
 Duplicate DOI: 10.23919/CNSM59352.2023.10327821
   Source: Scopus | Title: AI Toolbox Concept for the Arrowhead Framework
   Source: IEEE Xplore | Title: AI Toolbox Concept for the Arrowhead Framework
-Duplicate DOI: 10.1109/ICNSURV.2015.7121213
-  Source: Scopus | Title: Security vs. safety: Why do people die despite good safety?
-  Source: IEEE Xplore | Title: Security vs. safety: Why do people die despite good safety?
-Duplicate DOI: 10.1109/ZINC52049.2021.9499306
-  Source: Scopus | Title: The Safety Dilemmas of Autonomous Driving
-  Source: IEEE Xplore | Title: The Safety Dilemmas of Autonomous Driving
 Duplicate DOI: 10.1109/LISAT.2017.8001966
   Source: Scopus | Title: Cybersecurity in the age of autonomous vehicles, intelligent traffic controls and pervasive transportation networks
   Source: IEEE Xplore | Title: Cybersecurity in the age of autonomous vehicles, intelligent traffic controls and pervasive transportation networks
@@ -210,24 +112,12 @@ Duplicate DOI: 10.1109/SoSE50414.2020.9130491
 Duplicate DOI: 10.1109/SYSCON.2019.8836792
   Source: Scopus | Title: A middleware framework to address security issues in integrated multisystem applications
   Source: IEEE Xplore | Title: A Middleware Framework to Address Security Issues in Integrated Multisystem Applications
-Duplicate DOI: 10.1109/LISAT.2015.7160214
-  Source: Scopus | Title: Enforcing security, safety and privacy for the Internet of Things
-  Source: IEEE Xplore | Title: Enforcing security, safety and privacy for the Internet of Things
-Duplicate DOI: 10.1109/ICPS48405.2020.9274710
-  Source: Scopus | Title: An Effective Semantic Security Metric for Industrial Cyber-Physical Systems
-  Source: IEEE Xplore | Title: An Effective Semantic Security Metric for Industrial Cyber-Physical Systems
 Duplicate DOI: 10.1109/SYSOSE.2018.8428732
   Source: Scopus | Title: An efficient architecture for trust management in IoE based systems of systems
   Source: IEEE Xplore | Title: An Efficient Architecture for Trust Management in IoE Based Systems of Systems
-Duplicate DOI: 10.1109/AICT47866.2019.8981798
-  Source: Scopus | Title: A Dynamic Modular Ecosystem Approach for Risk Assessment Systems: Feasibility, design methodology, and generalisable application to a case study on ionising radiation and space exploration scenarios with realisation of a proof of concept
-  Source: IEEE Xplore | Title: A Dynamic Modular Ecosystem Approach for Risk Assessment Systems: Feasibility, design methodology, and generalisable application to a case study on ionising radiation and space exploration scenarios with realisation of a proof of concept
 Duplicate DOI: 10.1109/IGARSS.2018.8517556
   Source: Scopus | Title: Advanced visualisation of big data for agriculture as part of databio development
   Source: IEEE Xplore | Title: Advanced Visualisation of Big Data for Agriculture as Part of Databio Development
-Duplicate DOI: 10.1109/ICSE.2015.280
-  Source: Scopus | Title: Towards Model Driven Architecture and Analysis of System of Systems Access Control
-  Source: IEEE Xplore | Title: Towards Model Driven Architecture and Analysis of System of Systems Access Control
 Duplicate DOI: 10.1109/ICIT58233.2024.10540922
   Source: Scopus | Title: Machine Learning Security of Connected Autonomous Vehicles: A Systems Perspective
   Source: IEEE Xplore | Title: Machine Learning Security of Connected Autonomous Vehicles: A Systems Perspective
@@ -249,36 +139,18 @@ Duplicate DOI: 10.1109/IntelCIS.2015.7397237
 Duplicate DOI: 10.1109/JSYST.2019.2912626
   Source: Scopus | Title: Hierarchical flow model-based impact assessment of cyberattacks for critical infrastructures
   Source: IEEE Xplore | Title: Hierarchical Flow Model-Based Impact Assessment of Cyberattacks for Critical Infrastructures
-Duplicate DOI: 10.1109/RCIS.2018.8406655
-  Source: Scopus | Title: Requirements for smart cities: Results from a systematic review of literature
-  Source: IEEE Xplore | Title: Requirements for smart cities: Results from a systematic review of literature
-Duplicate DOI: 10.1109/IECON.2017.8217473
-  Source: Scopus | Title: Clock synchronization considerations in security informed safety assurance of autonomous systems of systems
-  Source: IEEE Xplore | Title: Clock synchronization considerations in security informed safety assurance of autonomous systems of systems
 Duplicate DOI: 10.1201/9781420065893
   Source: Scopus | Title: Systems of systems engineering: Principles and applications
   Source: Scopus | Title: Airport oper3ations a system-of-systems approach
   Source: Scopus | Title: Introduction to system of systems
   Source: Scopus | Title: A system-of-systems simulation framework and its applications
   Source: Scopus | Title: Defense applications of SoS
-Duplicate DOI: 10.1109/RAM.2018.8463035
-  Source: Scopus | Title: The Risk Assessment of System of Systems Considering Multistate Feature - A Case Study on Constellation
-  Source: IEEE Xplore | Title: The Risk Assessment of System of Systems Considering Multistate Feature - A Case Study on Constellation
 Duplicate DOI: 10.1109/RAMS51492.2024.10457674
   Source: Scopus | Title: Integrating R&M Throughout UAF, Case Study: NASA Infrastructure
   Source: IEEE Xplore | Title: Integrating R&M Throughout UAF, Case Study: NASA Infrastructure
-Duplicate DOI: 10.1109/ACCESS.2021.3064192
-  Source: Scopus | Title: Survey on Cloud Robotics Architecture and Model-Driven Reference Architecture for Decentralized Multicloud Heterogeneous-Robotics Platform
-  Source: IEEE Xplore | Title: Survey on Cloud Robotics Architecture and Model-Driven Reference Architecture for Decentralized Multicloud Heterogeneous-Robotics Platform
 Duplicate DOI: 10.1109/DeSE.2015.34
   Source: Scopus | Title: Evaluating Interdependencies and Cascading Failures Using Distributed Attack Graph Generation Methods for Critical Infrastructure Defence
   Source: IEEE Xplore | Title: Evaluating Interdependencies and Cascading Failures Using Distributed Attack Graph Generation Methods for Critical Infrastructure Defence
-Duplicate DOI: 10.1007/s11277-017-4137-z
-  Source: SpringerLink | Title: Inter-Cloud Communication Through Gatekeepers to Support IoT Service Interaction in the Arrowhead Framework
-  Source: Scopus | Title: Inter-Cloud Communication Through Gatekeepers to Support IoT Service Interaction in the Arrowhead Framework
-Duplicate DOI: 10.1109/NCA61908.2024.00025
-  Source: Scopus | Title: Towards Threat Modelling of IoT Context-Sharing Platforms
-  Source: IEEE Xplore | Title: Towards Threat Modelling of IoT Context-Sharing Platforms
 Duplicate DOI: 10.1109/ICSRS48664.2019.8987632
   Source: Scopus | Title: A State-based Extension to STPA for Safety-Critical System-of-Systems
   Source: IEEE Xplore | Title: A State-based Extension to STPA for Safety-Critical System-of-Systems
@@ -291,9 +163,6 @@ Duplicate DOI: 10.1109/WSC.2015.7408358
 Duplicate DOI: 10.1007/s10708-017-9840-5
   Source: SpringerLink | Title: Cooperation in earth observation missions in Africa: a role for afrigeoss
   Source: Scopus | Title: Cooperation in earth observation missions in Africa: a role for afrigeoss
-Duplicate DOI: 10.1109/ICAT.2017.8171624
-  Source: Scopus | Title: A risk and threat assessment approaches overview in autonomous systems of systems
-  Source: IEEE Xplore | Title: A risk and threat assessment approaches overview in autonomous systems of systems
 Duplicate DOI: 10.1109/ICSRS48664.2019.8987613
   Source: Scopus | Title: System of Systems Hazard Analysis Using HAZOP and FTA for Advanced Quarry Production
   Source: IEEE Xplore | Title: System of Systems Hazard Analysis Using HAZOP and FTA for Advanced Quarry Production
@@ -303,12 +172,6 @@ Duplicate DOI: 10.1007/s13412-016-0372-y
 Duplicate DOI: 10.1109/EIT.2019.8833860
   Source: Scopus | Title: Developing a framework for autonomous control software for a human colony on mars
   Source: IEEE Xplore | Title: Developing a Framework for Autonomous Control Software for a Human Colony on Mars
-Duplicate DOI: 10.1109/RWEEK.2018.8473517
-  Source: Scopus | Title: Blockchain for Supply Chain Cybersecurity, Optimization and Compliance
-  Source: IEEE Xplore | Title: Blockchain for Supply Chain Cybersecurity, Optimization and Compliance
-Duplicate DOI: 10.1109/SPW50608.2020.00038
-  Source: Scopus | Title: Assessment of cyber security implications of new technology integrations into military supply chains
-  Source: IEEE Xplore | Title: Assessment of Cyber Security Implications of New Technology Integrations into Military Supply Chains
 Duplicate DOI: 10.1109/SoSE59841.2023.10178677
   Source: Scopus | Title: Navigating the Cyber-Security Risks and Economics of System-of-Systems
   Source: IEEE Xplore | Title: Navigating the Cyber-Security Risks and Economics of System-of-Systems
@@ -330,63 +193,21 @@ Duplicate DOI: 10.1109/MILCOM55135.2022.10017967
 Duplicate DOI: 10.1109/SYSCON.2019.8836870
   Source: Scopus | Title: Architecting the next generation computing platform to deliver protected differentiated services
   Source: IEEE Xplore | Title: Architecting the Next Generation Computing Platform to Deliver Protected Differentiated Services
-Duplicate DOI: 10.1109/MECO49872.2020.9134179
-  Source: Scopus | Title: No Resilience without Security
-  Source: IEEE Xplore | Title: No Resilience without Security
-Duplicate DOI: 10.1109/ACCESS.2019.2930718
-  Source: Scopus | Title: Analysis of Systems Security Engineering Design Principles for the Development of Secure and Resilient Systems
-  Source: IEEE Xplore | Title: Analysis of Systems Security Engineering Design Principles for the Development of Secure and Resilient Systems
-Duplicate DOI: 10.1109/MeditCom49071.2021.9647635
-  Source: Scopus | Title: Towards Efficient Control-Flow Attestation with Software-Assisted Multi-level Execution Tracing
-  Source: IEEE Xplore | Title: Towards Efficient Control-Flow Attestation with Software-Assisted Multi-level Execution Tracing
 Duplicate DOI: 10.1109/ICM50269.2020.9331797
   Source: Scopus | Title: A Security Qualification Matrix to Efficiently Measure Security in Cyber-Physical Systems
   Source: IEEE Xplore | Title: A Security Qualification Matrix to Efficiently Measure Security in Cyber-Physical Systems
-Duplicate DOI: 10.1109/FiCloud.2018.00033
-  Source: Scopus | Title: IoT Device Lifecycle - A Generic Model and a Use Case for Cellular Mobile Networks
-  Source: IEEE Xplore | Title: IoT Device Lifecycle – A Generic Model and a Use Case for Cellular Mobile Networks
 Duplicate DOI: 10.1002/9781119896951.ch2
   Source: Scopus | Title: A case study of command-and-control center-a DSS perspective
   Source: IEEE Xplore | Title: A Case Study of Command&#x2010;and&#x2010;Control Center&#x2014;A DSS Perspective
-Duplicate DOI: 10.1109/WSC.2018.8632498
-  Source: Scopus | Title: Assessing critical infrastructure dependencies and interdependencies
-  Source: IEEE Xplore | Title: ASSESSING CRITICAL INFRASTRUCTURE DEPENDENCIES AND INTERDEPENDENCIES
 Duplicate DOI: 10.1109/ISSREW.2018.000-8
   Source: Scopus | Title: Enhancing Security and Reliability for Smart- Systems' Architectures
   Source: IEEE Xplore | Title: Enhancing Security and Reliability for Smart- Systems' Architectures
-Duplicate DOI: 10.1109/GlobConHT56829.2023.10087854
-  Source: Scopus | Title: Predictive Controller Based EMS and Techno-Economics of an Electrical-Thermal Community MG
-  Source: IEEE Xplore | Title: Predictive Controller Based EMS and Techno-Economics of an Electrical-Thermal Community MG
 Duplicate DOI: 10.1109/SYSOSE.2016.7542895
   Source: Scopus | Title: On the impact of emergent properties on SoS security
   Source: IEEE Xplore | Title: On the impact of emergent properties on SoS security
-Duplicate DOI: 10.1109/DSN-W.2018.00072
-  Source: Scopus | Title: Prototyping Automotive Smart Ecosystems
-  Source: IEEE Xplore | Title: Prototyping Automotive Smart Ecosystems
-Duplicate DOI: 10.23919/3S60530.2024.10592289
-  Source: Scopus | Title: Secure-by-component: A System-of-systems Design Paradigm for Securing Space Missions
-  Source: IEEE Xplore | Title: Secure-by-component: A System-of-systems Design Paradigm for Securing Space Missions
-Duplicate DOI: 10.1109/RAMS.2015.7105182
-  Source: Scopus | Title: Software contributions to the reliability of systems of systems
-  Source: IEEE Xplore | Title: Software contributions to the reliability of systems of systems
-Duplicate DOI: 10.1109/ICEEE62185.2024.10779313
-  Source: Scopus | Title: System of System Architecture for Cybersecurity of Power Systems Operations
-  Source: IEEE Xplore | Title: System of System Architecture for Cybersecurity of Power Systems Operations
 Duplicate DOI: 10.1109/RAM.2017.7889676
   Source: Scopus | Title: Department of defense system of systems reliability challenges
   Source: IEEE Xplore | Title: Department of defense system of systems reliability challenges
-Duplicate DOI: 10.1093/comjnl/bxy002
-  Source: Scopus | Title: Security risk assessment of critical infrastructure systems: A comparative study
-  Source: IEEE Xplore | Title: Security Risk Assessment of Critical Infrastructure Systems: A Comparative Study
-Duplicate DOI: 10.1109/ACCESS.2018.2887201
-  Source: Scopus | Title: Decision Provenance: Harnessing Data Flow for Accountable Systems
-  Source: IEEE Xplore | Title: Decision Provenance: Harnessing Data Flow for Accountable Systems
-Duplicate DOI: 10.1007/s13437-025-00362-z
-  Source: SpringerLink | Title: Visualisation of cyber vulnerabilities in maritime human-autonomy teaming technology
-  Source: Scopus | Title: Visualisation of cyber vulnerabilities in maritime human-autonomy teaming technology
-Duplicate DOI: 10.23919/AEIT60520.2023.10330429
-  Source: Scopus | Title: Towards a Systemic Asset Characterization of Electrical Systems for Multi-Risk Resilience
-  Source: IEEE Xplore | Title: Towards a Systemic Asset Characterization of Electrical Systems for Multi-Risk Resilience
 Duplicate DOI: 10.1109/SOSE52739.2021.9497461
   Source: Scopus | Title: Architecting System of Systems Solutions with Security and Data-Protection Principles
   Source: IEEE Xplore | Title: Architecting System of Systems Solutions with Security and Data-Protection Principles
@@ -396,30 +217,12 @@ Duplicate DOI: 10.1109/ICPS49255.2021.9468168
 Duplicate DOI: 10.1109/VTC2023-Spring57618.2023.10200789
   Source: Scopus | Title: Securing Cooperative Intersection Management through Subjective Trust Networks
   Source: IEEE Xplore | Title: Securing Cooperative Intersection Management through Subjective Trust Networks
-Duplicate DOI: 10.1109/PMAPS47429.2020.9183667
-  Source: Scopus | Title: Modeling Interdependencies with Complex Network Theory in a Combined Electrical Power and ICT System
-  Source: IEEE Xplore | Title: Modeling Interdependencies with Complex Network Theory in a Combined Electrical Power and ICT System
-Duplicate DOI: 10.1109/SYSOSE.2015.7151910
-  Source: Scopus | Title: Contribution to system of systems modeling
-  Source: IEEE Xplore | Title: Contribution to system of systems modeling
-Duplicate DOI: 10.1109/JSYST.2021.3064196
-  Source: Scopus | Title: Security Standard Compliance Verification in System of Systems
-  Source: IEEE Xplore | Title: Security Standard Compliance Verification in System of Systems
 Duplicate DOI: 10.1109/ACCESS.2021.3076918
   Source: Scopus | Title: Security Testing for Naval Ship Combat System Software
   Source: IEEE Xplore | Title: Security Testing for Naval Ship Combat System Software
-Duplicate DOI: 10.1109/TASE.2022.3164860
-  Source: Scopus | Title: A Cross-Layer Design Approach to Strategic Cyber Defense and Robust Switching Control of Cyber-Physical Wind Energy Systems
-  Source: IEEE Xplore | Title: A Cross-Layer Design Approach to Strategic Cyber Defense and Robust Switching Control of Cyber-Physical Wind Energy Systems
 Duplicate DOI: 10.1109/SYSCON.2018.8369501
   Source: Scopus | Title: Towards a risk analysis method for systems-of-systems based on systems thinking
   Source: IEEE Xplore | Title: Towards a risk analysis method for systems-of-systems based on systems thinking
-Duplicate DOI: 10.1109/DASC.2018.8569498
-  Source: Scopus | Title: Validating a European ATM security system architecture
-  Source: IEEE Xplore | Title: Validating a European ATM Security System Architecture
-Duplicate DOI: 10.1007/s13272-024-00733-x
-  Source: SpringerLink | Title: Can Urban Air Mobility become reality? Opportunities and challenges of UAM as innovative mode of transport and DLR contribution to ongoing research
-  Source: Scopus | Title: Can Urban Air Mobility become reality? Opportunities and challenges of UAM as innovative mode of transport and DLR contribution to ongoing research
 Duplicate DOI: 10.1109/SYSOSE.2019.8753877
   Source: Scopus | Title: Modeling approaches for system-of-systems dynamic architecture: Overview, taxonomy and future prospects
   Source: IEEE Xplore | Title: Modeling Approaches for System-of-Systems Dynamic Architecture: Overview, Taxonomy and Future Prospects
@@ -432,36 +235,12 @@ Duplicate DOI: 10.1109/ICETECC56662.2022.10069468
 Duplicate DOI: 10.23919/ECC.2019.8796292
   Source: Scopus | Title: Decision-making in complex dynamical systems of systems with one opposing subsystem
   Source: IEEE Xplore | Title: Decision-Making in Complex Dynamical Systems of Systems With One Opposing Subsystem
-Duplicate DOI: 10.1109/SYSOSE.2015.7151950
-  Source: Scopus | Title: Towards security software engineering the Smart Grid as a System of Systems
-  Source: IEEE Xplore | Title: Towards security software engineering the Smart Grid as a System of Systems
 Duplicate DOI: 10.1109/ICCWS53234.2021.9703029
   Source: Scopus | Title: Modeling and Simulation Challenges for Cyber Physical Systems from Operational Security Perspective
   Source: IEEE Xplore | Title: Modeling and Simulation Challenges for Cyber Physical Systems from Operational Security Perspective
-Duplicate DOI: 10.1109/SYSOSE.2015.7151942
-  Source: Scopus | Title: SoS capability schedule prediction
-  Source: IEEE Xplore | Title: SoS capability schedule prediction
-Duplicate DOI: 10.1109/SYSOSE.2015.7151941
-  Source: Scopus | Title: Defending mechanisms for protecting power systems against intelligent attacks
-  Source: IEEE Xplore | Title: Defending mechanisms for protecting power systems against intelligent attacks
-Duplicate DOI: 10.1109/SYSOSE.2015.7151940
-  Source: Scopus | Title: A model based approach to system of systems risk management
-  Source: IEEE Xplore | Title: A model based approach to system of systems risk management
-Duplicate DOI: 10.1109/MIE.2017.2759342
-  Source: Scopus | Title: Local Cloud Internet of Things Automation: Technology and Business Model Features of Distributed Internet of Things Automation Solutions
-  Source: IEEE Xplore | Title: Local Cloud Internet of Things Automation: Technology and Business Model Features of Distributed Internet of Things Automation Solutions
 Duplicate DOI: 10.1111/risa.12559
   Source: Crossref | Title: Risk Assessment of Infrastructure System of Systems with Precursor Analysis
   Source: Scopus | Title: Risk Assessment of Infrastructure System of Systems with Precursor Analysis
-Duplicate DOI: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics53846.2021.00029
-  Source: Scopus | Title: Protecting LoRaWan data against untrusted network servers
-  Source: IEEE Xplore | Title: Protecting LoRaWan data against untrusted network servers
-Duplicate DOI: 10.1109/SYSOSE.2015.7151918
-  Source: Scopus | Title: A systematic mapping of the research literature on system-of-systems engineering
-  Source: IEEE Xplore | Title: A systematic mapping of the research literature on system-of-systems engineering
-Duplicate DOI: 10.1109/SYSOSE.2015.7151927
-  Source: Scopus | Title: Behavioral detection in the maritime domain
-  Source: IEEE Xplore | Title: Behavioral detection in the maritime domain
 Duplicate DOI: 10.1109/SysCon53536.2022.9773915
   Source: Scopus | Title: Managing Pandemic Resilience with Other Cascading Disruptions of a Socio-Technical System
   Source: IEEE Xplore | Title: Managing Pandemic Resilience with Other Cascading Disruptions of a Socio-Technical System
@@ -471,54 +250,30 @@ Duplicate DOI: 10.1109/SYSOSE.2019.8753838
 Duplicate DOI: 10.1109/SoSE50414.2020.9130525
   Source: Scopus | Title: Towards Security of Cyber-Physical Systems using Quantum Computing Algorithms
   Source: IEEE Xplore | Title: Towards Security of Cyber-Physical Systems using Quantum Computing Algorithms
-Duplicate DOI: 10.1109/SYSOSE.2015.7151980
-  Source: Scopus | Title: On the study of human reliability in transportation systems of systems
-  Source: IEEE Xplore | Title: On the study of human reliability in transportation systems of systems
 Duplicate DOI: 10.1109/SESoS/WDES.2019.00010
   Source: Scopus | Title: Major Challenges of Systems-of-Systems with Cloud and DevOps - A Financial Experience Report
   Source: IEEE Xplore | Title: Major Challenges of Systems-of-Systems with Cloud and DevOps – A Financial Experience Report
-Duplicate DOI: 10.1109/PLANS53410.2023.10139999
-  Source: Scopus | Title: LEO-PNT for Augmenting Europe's Space-based PNT Capabilities
-  Source: IEEE Xplore | Title: LEO-PNT for Augmenting Europe's Space-based PNT Capabilities
+Duplicate DOI: 10.1109/SYSOSE.2019.8753854
+  Source: Scopus | Title: Improving Performance and Cybersecurity in an IoT-based System of Systems Integrating Robots and Virtual Human
+  Source: IEEE Xplore | Title: Improving Performance and Cybersecurity in an IoT-based System of Systems Integrating Robots and Virtual Human
 Duplicate DOI: 10.1109/SYSOSE.2019.8753857
   Source: Scopus | Title: Development of secure system of systems needing a rapid deployment
   Source: IEEE Xplore | Title: Development of Secure System of Systems Needing a Rapid Deployment
 Duplicate DOI: 10.1109/TDC.2018.8440380
   Source: Scopus | Title: Keyless Signature Blockchain Infrastructure: Facilitating NERC CIP Compliance and Responding to Evolving Cyber Threats and Vulnerabilities to Energy Infrastructure
   Source: IEEE Xplore | Title: Keyless Signature Blockchain Infrastructure: Facilitating NERC CIP Compliance and Responding to Evolving Cyber Threats and Vulnerabilities to Energy Infrastructure
-Duplicate DOI: 10.1109/ICAA58325.2023.00015
-  Source: Scopus | Title: Live Virtual Constructive Environment for Assuring the Safety and Security of Complex Autonomous Vehicles
-  Source: IEEE Xplore | Title: Live Virtual Constructive Environment for Assuring the Safety and Security of Complex Autonomous Vehicles
-Duplicate DOI: 10.1109/SYSOSE.2015.7151969
-  Source: Scopus | Title: A conditional value-at-risk approach to risk management in system-of-systems architectures
-  Source: IEEE Xplore | Title: A conditional value-at-risk approach to risk management in system-of-systems architectures
 Duplicate DOI: 10.1109/SESoS/WDES.2019.00017
   Source: Scopus | Title: Security Assessment of Systems of Systems
   Source: IEEE Xplore | Title: Security Assessment of Systems of Systems
 Duplicate DOI: 10.1109/ESPRE.2018.00009
   Source: Scopus | Title: Assessing system of systems security risk and requirements with oasosis
   Source: IEEE Xplore | Title: Assessing System of Systems Security Risk and Requirements with OASoSIS
-Duplicate DOI: 10.1109/EuroSPW51379.2020.00087
-  Source: Scopus | Title: Defensive Programming for Smart Home Cybersecurity
-  Source: IEEE Xplore | Title: Defensive Programming for Smart Home Cybersecurity
-Duplicate DOI: 10.1109/IOTSMS53705.2021.9704977
-  Source: Scopus | Title: IoT Framework for Effective and Fine-Grain Access Control
-  Source: IEEE Xplore | Title: IoT Framework for Effective and Fine–Grain Access Control
 Duplicate DOI: 10.1109/SYSCON.2018.8369598
   Source: Scopus | Title: On functional safety methods: A system of systems approach
   Source: IEEE Xplore | Title: On functional safety methods: A system of systems approach
-Duplicate DOI: 10.1201/9780429341939-12
-  Source: Scopus | Title: A Review of NAVDAT and VDES as Upgrades of Maritime Communication Systems
-  Source: Scopus | Title: A review of NAVDAT and VDES as upgrades of maritime communication systems
 Duplicate DOI: 10.1109/CYCONUS.2017.8167500
   Source: Scopus | Title: Cyber security via formal methods: A framework for implementing formal methods
   Source: IEEE Xplore | Title: Cyber security via formal methods: A framework for implementing formal methods
-Duplicate DOI: 10.1109/MITP.2018.2883858
-  Source: Scopus | Title: IoT Safety: State of the Art
-  Source: IEEE Xplore | Title: IoT Safety: State of the Art
-Duplicate DOI: 10.1109/DSD.2019.00076
-  Source: Scopus | Title: Local Monitoring of Embedded Applications and Devices using Artificial Neural Networks
-  Source: IEEE Xplore | Title: Local Monitoring of Embedded Applications and Devices using Artificial Neural Networks
 Duplicate DOI: 10.1109/SMC.2019.8913946
   Source: Scopus | Title: A system of systems framework for the water-energy-food nexus
   Source: IEEE Xplore | Title: A System of Systems Framework for the Water-Energy-Food Nexus
@@ -528,30 +283,12 @@ Duplicate DOI: 10.1109/HASE.2016.21
 Duplicate DOI: 10.1109/RAMS51492.2024.10457700
   Source: Scopus | Title: Integrated Systems Engineering, Safety, Reliability and Risk Management - Minimizing Black Swan Events
   Source: IEEE Xplore | Title: Integrated Systems Engineering, Safety, Reliability and Risk Management – Minimizing Black Swan Events
-Duplicate DOI: 10.1109/DASC.2017.8102148
-  Source: Scopus | Title: An interconnected network of UAS as a system-of-systems
-  Source: IEEE Xplore | Title: An interconnected network of UAS as a system-of-systems
-Duplicate DOI: 10.1109/ETFA.2018.8502665
-  Source: Scopus | Title: Data-Driven Workflow Execution in Service Oriented IoT Architectures
-  Source: IEEE Xplore | Title: Data-Driven Workflow Execution in Service Oriented IoT Architectures
-Duplicate DOI: 10.1109/SYSOSE.2018.8428765
-  Source: Scopus | Title: System of systems characterisation assisting security risk assessment
-  Source: IEEE Xplore | Title: System of Systems Characterisation assisting Security Risk Assessment
 Duplicate DOI: 10.1109/ACCESS.2024.3362229
   Source: Scopus | Title: Improved Technology Readiness Assessment Framework for System-of-Systems from a System Integration Perspective
   Source: IEEE Xplore | Title: Improved Technology Readiness Assessment Framework for System-of-Systems From a System Integration Perspective
-Duplicate DOI: 10.1109/SYSOSE.2018.8428778
-  Source: Scopus | Title: Irrational system behavior in a system of systems
-  Source: IEEE Xplore | Title: Irrational System Behavior in a System of Systems
-Duplicate DOI: 10.1109/SYSOSE.2018.8428776
-  Source: Scopus | Title: Extending a multi-agent systems simulation architecture for systems-of-systems security analysis
-  Source: IEEE Xplore | Title: Extending a Multi-Agent Systems Simulation Architecture for Systems-of-Systems Security Analysis
 Duplicate DOI: 10.1109/ICPS48405.2020.9274746
   Source: Scopus | Title: Interoperability by construction: Code generation for Arrowhead Clients
   Source: IEEE Xplore | Title: Interoperability by construction: code generation for Arrowhead Clients
-Duplicate DOI: 10.1109/DASC.2017.8102105
-  Source: Scopus | Title: Enforcing domain segregation in unified cabin data networks
-  Source: IEEE Xplore | Title: Enforcing domain segregation in unified cabin data networks
 Duplicate DOI: 10.1109/DeSE.2016.42
   Source: Scopus | Title: Statistical Analysis Methods for Interdependency Communication in Distributed Systems
   Source: IEEE Xplore | Title: Statistical Analysis Methods for Interdependency Communication in Distributed Systems
@@ -564,6 +301,346 @@ Duplicate DOI: 10.1109/SEAA64295.2024.00065
 Duplicate DOI: 10.1109/ICPS48405.2020.9274768
   Source: Scopus | Title: Native OPC UA Handling and IEC 61499 PLC Integration within the Arrowhead Framework
   Source: IEEE Xplore | Title: Native OPC UA Handling and IEC 61499 PLC Integration within the Arrowhead Framework
+Duplicate DOI: 10.1109/THS.2017.7943512
+  Source: Scopus | Title: Analytics for smart grid cybersecurity
+  Source: IEEE Xplore | Title: Analytics for smart grid cybersecurity
+Duplicate DOI: 10.1109/ICNSURV.2019.8735376
+  Source: Scopus | Title: A Systems Engineering Approach to Appraise Cybersecurity Risks of CNS/ATM and Avionics Systems
+  Source: IEEE Xplore | Title: A Systems Engineering Approach To Appraise Cybersecurity Risks Of CNS/ATM and Avionics Systems
+Duplicate DOI: 10.1109/EIT.2019.8834036
+  Source: Scopus | Title: Detection of the false data injection attack in home area networks using ANN
+  Source: IEEE Xplore | Title: Detection of the False Data Injection Attack in Home Area Networks using ANN
+Duplicate DOI: 10.1007/s11069-019-03711-3
+  Source: SpringerLink | Title: Multi-peril risk assessment for business downtime of industrial facilities
+  Source: Scopus | Title: Multi-peril risk assessment for business downtime of industrial facilities
+Duplicate DOI: 10.1109/INDIN41052.2019.8972250
+  Source: Scopus | Title: System of systems integration via a structured naming convention
+  Source: IEEE Xplore | Title: System of Systems integration via a structured naming convention
+Duplicate DOI: 10.1109/CSR61664.2024.10679440
+  Source: Scopus | Title: Foundations for Modelling Conscientious Attacking in Electromagnetic Cyberspace
+  Source: IEEE Xplore | Title: Foundations for Modelling Conscientious Attacking in Electromagnetic Cyberspace
+Duplicate DOI: 10.1109/ISSE63315.2024.10741154
+  Source: Scopus | Title: Towards an Integrated Safety-Security Ontology for System of Systems
+  Source: IEEE Xplore | Title: Towards an Integrated Safety-Security Ontology for System of Systems
+Duplicate DOI: 10.1109/SOSE55472.2022.9812676
+  Source: Scopus | Title: Cybersecurity Vulnerability Identification in System-of-Systems using Model-based Testing
+  Source: IEEE Xplore | Title: Cybersecurity Vulnerability Identification in System-of-Systems using Model-based Testing
+Duplicate DOI: 10.1109/COGSIMA.2018.8423969
+  Source: Scopus | Title: Modelling Complex System-Of-Systems for Creating Situation Awareness : (Late Breaking Report)
+  Source: IEEE Xplore | Title: Modelling Complex System-Of-Systems for Creating Situation Awareness : (Late Breaking Report)
+Duplicate DOI: 10.1109/RE.2018.00033
+  Source: Scopus | Title: Morse: Reducing the feature interaction explosion problem using subject matter knowledge as abstract requirements
+  Source: IEEE Xplore | Title: Morse: Reducing the Feature Interaction Explosion Problem using Subject Matter Knowledge as Abstract Requirements
+Duplicate DOI: 10.1109/SOSE55472.2022.9812648
+  Source: Scopus | Title: Using the architecture of Socio-Technical System to analyse its vulnerability
+  Source: IEEE Xplore | Title: Using the architecture of Socio-Technical System to analyse its vulnerability
+Duplicate DOI: 10.1109/RE.2018.00021
+  Source: Scopus | Title: On systems of systems engineering: A requirements engineering perspective and research agenda
+  Source: IEEE Xplore | Title: On Systems of Systems Engineering: A Requirements Engineering Perspective and Research Agenda
+Duplicate DOI: 10.23919/ICIF.2018.8455314
+  Source: Scopus | Title: A Sequential Game of Defense and Attack on an Interdependent System of Systems
+  Source: IEEE Xplore | Title: A Sequential Game of Defense and Attack on an Interdependent System of Systems
+Duplicate DOI: 10.1109/IV55156.2024.10588773
+  Source: Scopus | Title: Misbehaviour Detection System for Intelligent Speed Assistance (ISA)
+  Source: IEEE Xplore | Title: Misbehaviour Detection System for Intelligent Speed Assistance (ISA)
+Duplicate DOI: 10.1109/ACCESS.2025.3578948
+  Source: Scopus | Title: Scalable Discrete Event Simulation Tool for Large-Scale Cyber-Physical Energy Systems: Advancing System Efficiency and Scalability
+  Source: IEEE Xplore | Title: Scalable Discrete Event Simulation Tool for Large-Scale Cyber-Physical Energy Systems: Advancing System Efficiency and Scalability
+Duplicate DOI: 10.1109/JSYST.2019.2894649
+  Source: Scopus | Title: System of System Composition Based on Decentralized Service-Oriented Architecture
+  Source: IEEE Xplore | Title: System of System Composition Based on Decentralized Service-Oriented Architecture
+Duplicate DOI: 10.23919/ICIF.2017.8009876
+  Source: Scopus | Title: Game-theoretic analysis of system of systems with inherent robustness parameters
+  Source: IEEE Xplore | Title: Game-theoretic analysis of system of systems with inherent robustness parameters
+Duplicate DOI: 10.1109/MECO49872.2020.9134336
+  Source: Scopus | Title: Decentralized, Secure and Cognitive Architecture for Automotive CyberPhysical System of Systems
+  Source: IEEE Xplore | Title: Decentralized, Secure and Cognitive Architecture for Automotive CyberPhysical System of Systems
+Duplicate DOI: 10.1109/SysEng.2018.8544433
+  Source: Scopus | Title: Can STPA be used for a System-of-Systems? Experiences from an Automated Quarry Site
+  Source: IEEE Xplore | Title: Can STPA be used for a System-of-Systems? Experiences from an Automated Quarry Site
+Duplicate DOI: 10.1109/RE.2018.00061
+  Source: Scopus | Title: Assessing security risk and requirements for systems of systems
+  Source: IEEE Xplore | Title: Assessing Security Risk and Requirements for Systems of Systems
+Duplicate DOI: 10.1109/SysEng.2018.8544441
+  Source: Scopus | Title: System engineering in an unknown aerial environment for a communications system
+  Source: IEEE Xplore | Title: System Engineering in an Unknown Aerial Environment for a Communications System
+Duplicate DOI: 10.1109/TNSE.2025.3555384
+  Source: Scopus | Title: Link-Centric Research on the Capability Resilience of Heterogeneous Information Combat Networks
+  Source: IEEE Xplore | Title: Link-Centric Research on the Capability Resilience of Heterogeneous Information Combat Networks
+Duplicate DOI: 10.1109/EWDTS.2019.8884447
+  Source: Scopus | Title: Researching resilience a holistic approach
+  Source: IEEE Xplore | Title: Researching Resilience a Holistic Approach
+Duplicate DOI: 10.23919/ICCAS55662.2022.10003919
+  Source: Scopus | Title: Empowering The Eclipse Arrowhead Framework with a Digital Twin as a Proxy Service
+  Source: IEEE Xplore | Title: Empowering The Eclipse Arrowhead Framework with a Digital Twin as a Proxy Service
+Duplicate DOI: 10.1109/SMC-IT56444.2023.00021
+  Source: Scopus | Title: A Hybrid Space Architecture for Robust and Resilient Satellite Services
+  Source: IEEE Xplore | Title: A Hybrid Space Architecture for Robust and Resilient Satellite Services
+Duplicate DOI: 10.1145/3524844.3528067
+  Source: Scopus | Title: From Systems to Ecosystems: Rethinking Adaptive Safety
+  Source: IEEE Xplore | Title: From Systems to Ecosystems: Rethinking Adaptive Safety
+Duplicate DOI: 10.1109/RE.2017.48
+  Source: Scopus | Title: Identifying Conflicting Requirements in Systems of Systems
+  Source: IEEE Xplore | Title: Identifying Conflicting Requirements in Systems of Systems
+Duplicate DOI: 10.1109/ICTIS60134.2023.10243800
+  Source: Scopus | Title: Research on Cyber-Physical Fusion Test and Verification for Remote-Controlled Ship
+  Source: IEEE Xplore | Title: Research on Cyber-Physical Fusion Test and Verification for Remote-Controlled Ship
+Duplicate DOI: 10.1109/MCSE.2016.108
+  Source: Scopus | Title: Risk-Based Software Development Practices for CREATE Multiphysics HPC Software Applications
+  Source: IEEE Xplore | Title: Risk-Based Software Development Practices for CREATE Multiphysics HPC Software Applications
+Duplicate DOI: 10.1109/SYSCON.2017.7934780
+  Source: Scopus | Title: Reengineering autonomic components in legacy software systems: A case study
+  Source: IEEE Xplore | Title: Reengineering autonomic components in legacy software systems: A case study
+Duplicate DOI: 10.1109/SYSCON.2017.7934783
+  Source: Scopus | Title: Analyzing hazards in system-of-systems: Described in a quarry site automation context
+  Source: IEEE Xplore | Title: Analyzing hazards in system-of-systems: Described in a quarry site automation context
+Duplicate DOI: 10.1109/CISS59072.2024.10480201
+  Source: Scopus | Title: Needle-in-the-Haystack: On Automatic Risk-based Searching to Stop Cyber-Physical Threats in Large-Scale Power Systems
+  Source: IEEE Xplore | Title: Needle-in-the-Haystack: On Automatic Risk-based Searching to Stop Cyber-Physical Threats in Large-Scale Power Systems
+Duplicate DOI: 10.1007/s10669-023-09931-0
+  Source: SpringerLink | Title: Supply/demand interface for disaster resilience assessment of interdependent infrastructure systems considering privacy and security concerns
+  Source: Scopus | Title: Supply/demand interface for disaster resilience assessment of interdependent infrastructure systems considering privacy and security concerns
+Duplicate DOI: 10.23919/SoftCOM50211.2020.9238329
+  Source: Scopus | Title: Towards Creation of Automated Prediction Systems for Trust and Dependability Evaluation
+  Source: IEEE Xplore | Title: Towards Creation of Automated Prediction Systems for Trust and Dependability Evaluation
+Duplicate DOI: 10.1109/RAMS48127.2025.10935048
+  Source: Scopus | Title: Establishing Common Values in Design for Sustainability
+  Source: IEEE Xplore | Title: Establishing Common Values in Design for Sustainability
+Duplicate DOI: 10.23919/MIXDES58562.2023.10203211
+  Source: Scopus | Title: From Embedded to AI-powered Cyberphysical Systems and Beyond
+  Source: IEEE Xplore | Title: From Embedded to AI-powered Cyberphysical Systems and Beyond
+Duplicate DOI: 10.3850/978-981-14-8593-0_3728-cd
+  Source: Scopus | Title: Certification cycles of train cyber gateway
+  Source: Scopus | Title: Certification cycles of train cyber gateway
+Duplicate DOI: 10.1109/JSEN.2020.3004275
+  Source: Scopus | Title: Cybersecurity Attacks in Vehicular Sensors
+  Source: IEEE Xplore | Title: Cybersecurity Attacks in Vehicular Sensors
+Duplicate DOI: 10.1007/s00163-016-0229-0
+  Source: SpringerLink | Title: Supporting design via the System Operational Dependency Analysis methodology
+  Source: Scopus | Title: Supporting design via the System Operational Dependency Analysis methodology
+Duplicate DOI: 10.1109/ICSTCC.2017.8107108
+  Source: Scopus | Title: The industrial internet of things and cyber security: An ecological and systemic perspective on security in digital industrial ecosystems
+  Source: IEEE Xplore | Title: The industrial internet of things and cyber security: An ecological and systemic perspective on security in digital industrial ecosystems
+Duplicate DOI: 10.1109/JSYST.2018.2876836
+  Source: Scopus | Title: Conceptualization of a System-of-Systems in the Defense Domain: An Experience Report in the Brazilian Scenario
+  Source: IEEE Xplore | Title: Conceptualization of a System-of-Systems in the Defense Domain: An Experience Report in the Brazilian Scenario
+Duplicate DOI: 10.1109/SIEDS.2016.7489299
+  Source: Scopus | Title: Systems-based cyber security in the supply chain
+  Source: IEEE Xplore | Title: Systems-based cyber security in the supply chain
+Duplicate DOI: 10.1109/SYSOSE.2017.7994973
+  Source: Scopus | Title: CyberSecurity considerations for an interconnected self-driving car system of systems
+  Source: IEEE Xplore | Title: CyberSecurity considerations for an interconnected self-driving car system of systems
+Duplicate DOI: 10.1109/DSN-W60302.2024.00030
+  Source: Scopus | Title: Cybersecurity Pathways Towards CE-Certified Autonomous Forestry Machines
+  Source: IEEE Xplore | Title: Cybersecurity Pathways Towards CE-Certified Autonomous Forestry Machines
+Duplicate DOI: 10.1109/ACCESS.2021.3102280
+  Source: Scopus | Title: Automated and Secure Onboarding for System of Systems
+  Source: IEEE Xplore | Title: Automated and Secure Onboarding for System of Systems
+Duplicate DOI: 10.1109/SYSOSE.2017.7994934
+  Source: Scopus | Title: Modeling human-technology interaction as a sociotechnical system of systems
+  Source: IEEE Xplore | Title: Modeling human-technology interaction as a sociotechnical system of systems
+Duplicate DOI: 10.1109/SYSOSE.2017.7994949
+  Source: Scopus | Title: Red teaming in the age of IOT: Thoughts on framing the next generation of technical vulnerability assessment
+  Source: IEEE Xplore | Title: Red teaming in the age of IOT: Thoughts on framing the next generation of technical vulnerability assessment
+Duplicate DOI: 10.1109/GIOTS.2017.8016280
+  Source: Scopus | Title: Securing user identity and transactions symbiotically: IoT meets blockchain
+  Source: IEEE Xplore | Title: Securing user identity and transactions symbiotically: IoT meets blockchain
+Duplicate DOI: 10.1109/ICSA-C50368.2020.00050
+  Source: Scopus | Title: Risk Management for System of Systems: A Systematic Mapping Study
+  Source: IEEE Xplore | Title: Risk Management for System of Systems: A Systematic Mapping Study
+Duplicate DOI: 10.1109/SESoS-WDES52566.2021.00007
+  Source: Scopus | Title: Will safety-security co-engineering pay off? A quality and cost perspective in two case studies
+  Source: IEEE Xplore | Title: Will safety-security co-engineering pay off? A quality and cost perspective in two case studies
+Duplicate DOI: 10.1109/ICEET53442.2021.9659739
+  Source: Scopus | Title: Reference Architectures for Smart Grids: Towards a Standard-based Comparative Framework
+  Source: IEEE Xplore | Title: Reference Architectures for Smart Grids: Towards a Standard-based Comparative Framework
+Duplicate DOI: 10.1145/2968456.2974043
+  Source: Scopus | Title: Self-aware systems for the Internet-of-Things
+  Source: Scopus | Title: Self-Aware systems for the Internet-of-Things
+Duplicate DOI: 10.1186/s40648-023-00245-z
+  Source: SpringerLink | Title: A SafeML extension for a unified risk assessment to diverse service robots
+  Source: Scopus | Title: A SafeML extension for a unified risk assessment to diverse service robots
+Duplicate DOI: 10.1109/CYCON.2016.7529435
+  Source: Scopus | Title: Weapons systems and cyber security-a challenging union
+  Source: IEEE Xplore | Title: Weapons systems and cyber security - a challenging union
+Duplicate DOI: 10.1109/SECONWorkshops50264.2020.9149779
+  Source: Scopus | Title: A Benchmark of Security Metrics in Cyber-Physical Systems
+  Source: IEEE Xplore | Title: A Benchmark of Security Metrics in Cyber-Physical Systems
+Duplicate DOI: 10.1007/s10207-023-00757-0
+  Source: SpringerLink | Title: A systematic mapping study on security for systems of systems
+  Source: Scopus | Title: A systematic mapping study on security for systems of systems
+Duplicate DOI: 10.1109/JSYST.2020.2993323
+  Source: Scopus | Title: Industrial Frameworks for Internet of Things: A Survey
+  Source: IEEE Xplore | Title: Industrial Frameworks for Internet of Things: A Survey
+Duplicate DOI: 10.1109/ICSAI.2018.8599363
+  Source: Scopus | Title: An Architecture of System of Systems (SoS) for Commercial Flight Security in 5G OGCE
+  Source: IEEE Xplore | Title: An Architecture of System of Systems (SoS) for Commercial Flight Security in 5G OGCE
+Duplicate DOI: 10.1109/DESSERT.2019.8770034
+  Source: Scopus | Title: Multilevel Fuzzy Logic-Based Approach for Critical Energy Infrastructure's Cyber Resilience Assessment
+  Source: IEEE Xplore | Title: Multilevel Fuzzy Logic-Based Approach for Critical Energy Infrastructure’s Cyber Resilience Assessment
+Duplicate DOI: 10.1109/EnCyCriS52570.2021.00008
+  Source: Scopus | Title: Attack-driven Test Case Generation Approach using Model-checking Technique for Collaborating Systems
+  Source: IEEE Xplore | Title: Attack-driven Test Case Generation Approach using Model-checking Technique for Collaborating Systems
+Duplicate DOI: 10.1016/B978-0-12-811373-8.09990-0
+  Source: Scopus | Title: Intelligent data-centric critical systems: Security and resilience key challenges
+  Source: Scopus | Title: Intelligent Data-Centric Critical Systems: Security and Resilience Key Challenges
+Duplicate DOI: 10.1109/ISSREW60843.2023.00069
+  Source: Scopus | Title: Validating the BIECO Security Evaluation Methodology within a Smart Grid Monitoring SW
+  Source: IEEE Xplore | Title: Validating the BIECO Security Evaluation Methodology within a Smart Grid Monitoring SW
+Duplicate DOI: 10.1109/ICNS65417.2025.10976786
+  Source: Scopus | Title: Towards Continuous Security Assessment: Integrating Model-Based Risk Assessment and Large Language Models
+  Source: IEEE Xplore | Title: Towards Continuous Security Assessment: Integrating Model-Based Risk Assessment and Large Language Models
+Duplicate DOI: 10.23919/DATE64628.2025.10992708
+  Source: Scopus | Title: Cybersecurity Challenges of Autonomous Systems
+  Source: IEEE Xplore | Title: Cybersecurity Challenges of Autonomous Systems
+Duplicate DOI: 10.1109/ZINC52049.2021.9499306
+  Source: Scopus | Title: The Safety Dilemmas of Autonomous Driving
+  Source: IEEE Xplore | Title: The Safety Dilemmas of Autonomous Driving
+Duplicate DOI: 10.1109/ICPS48405.2020.9274710
+  Source: Scopus | Title: An Effective Semantic Security Metric for Industrial Cyber-Physical Systems
+  Source: IEEE Xplore | Title: An Effective Semantic Security Metric for Industrial Cyber-Physical Systems
+Duplicate DOI: 10.1109/AICT47866.2019.8981798
+  Source: Scopus | Title: A Dynamic Modular Ecosystem Approach for Risk Assessment Systems: Feasibility, design methodology, and generalisable application to a case study on ionising radiation and space exploration scenarios with realisation of a proof of concept
+  Source: IEEE Xplore | Title: A Dynamic Modular Ecosystem Approach for Risk Assessment Systems: Feasibility, design methodology, and generalisable application to a case study on ionising radiation and space exploration scenarios with realisation of a proof of concept
+Duplicate DOI: 10.1109/RCIS.2018.8406655
+  Source: Scopus | Title: Requirements for smart cities: Results from a systematic review of literature
+  Source: IEEE Xplore | Title: Requirements for smart cities: Results from a systematic review of literature
+Duplicate DOI: 10.1109/IECON.2017.8217473
+  Source: Scopus | Title: Clock synchronization considerations in security informed safety assurance of autonomous systems of systems
+  Source: IEEE Xplore | Title: Clock synchronization considerations in security informed safety assurance of autonomous systems of systems
+Duplicate DOI: 10.1109/RAM.2018.8463035
+  Source: Scopus | Title: The Risk Assessment of System of Systems Considering Multistate Feature - A Case Study on Constellation
+  Source: IEEE Xplore | Title: The Risk Assessment of System of Systems Considering Multistate Feature - A Case Study on Constellation
+Duplicate DOI: 10.1109/ACCESS.2021.3064192
+  Source: Scopus | Title: Survey on Cloud Robotics Architecture and Model-Driven Reference Architecture for Decentralized Multicloud Heterogeneous-Robotics Platform
+  Source: IEEE Xplore | Title: Survey on Cloud Robotics Architecture and Model-Driven Reference Architecture for Decentralized Multicloud Heterogeneous-Robotics Platform
+Duplicate DOI: 10.1007/s11277-017-4137-z
+  Source: SpringerLink | Title: Inter-Cloud Communication Through Gatekeepers to Support IoT Service Interaction in the Arrowhead Framework
+  Source: Scopus | Title: Inter-Cloud Communication Through Gatekeepers to Support IoT Service Interaction in the Arrowhead Framework
+Duplicate DOI: 10.1109/NCA61908.2024.00025
+  Source: Scopus | Title: Towards Threat Modelling of IoT Context-Sharing Platforms
+  Source: IEEE Xplore | Title: Towards Threat Modelling of IoT Context-Sharing Platforms
+Duplicate DOI: 10.1109/ICAT.2017.8171624
+  Source: Scopus | Title: A risk and threat assessment approaches overview in autonomous systems of systems
+  Source: IEEE Xplore | Title: A risk and threat assessment approaches overview in autonomous systems of systems
+Duplicate DOI: 10.1109/RWEEK.2018.8473517
+  Source: Scopus | Title: Blockchain for Supply Chain Cybersecurity, Optimization and Compliance
+  Source: IEEE Xplore | Title: Blockchain for Supply Chain Cybersecurity, Optimization and Compliance
+Duplicate DOI: 10.1109/SPW50608.2020.00038
+  Source: Scopus | Title: Assessment of cyber security implications of new technology integrations into military supply chains
+  Source: IEEE Xplore | Title: Assessment of Cyber Security Implications of New Technology Integrations into Military Supply Chains
+Duplicate DOI: 10.1109/ACCESS.2025.3586722
+  Source: Scopus | Title: SGAM Toolbox Revisited: A Standards-Based Domain-Specific Modeling Language and Toolset
+  Source: IEEE Xplore | Title: SGAM Toolbox Revisited: A Standards-Based Domain-Specific Modeling Language and Toolset
+Duplicate DOI: 10.1109/MECO49872.2020.9134179
+  Source: Scopus | Title: No Resilience without Security
+  Source: IEEE Xplore | Title: No Resilience without Security
+Duplicate DOI: 10.1109/ACCESS.2019.2930718
+  Source: Scopus | Title: Analysis of Systems Security Engineering Design Principles for the Development of Secure and Resilient Systems
+  Source: IEEE Xplore | Title: Analysis of Systems Security Engineering Design Principles for the Development of Secure and Resilient Systems
+Duplicate DOI: 10.1109/MeditCom49071.2021.9647635
+  Source: Scopus | Title: Towards Efficient Control-Flow Attestation with Software-Assisted Multi-level Execution Tracing
+  Source: IEEE Xplore | Title: Towards Efficient Control-Flow Attestation with Software-Assisted Multi-level Execution Tracing
+Duplicate DOI: 10.1109/FiCloud.2018.00033
+  Source: Scopus | Title: IoT Device Lifecycle - A Generic Model and a Use Case for Cellular Mobile Networks
+  Source: IEEE Xplore | Title: IoT Device Lifecycle – A Generic Model and a Use Case for Cellular Mobile Networks
+Duplicate DOI: 10.1109/WSC.2018.8632498
+  Source: Scopus | Title: Assessing critical infrastructure dependencies and interdependencies
+  Source: IEEE Xplore | Title: ASSESSING CRITICAL INFRASTRUCTURE DEPENDENCIES AND INTERDEPENDENCIES
+Duplicate DOI: 10.1109/GlobConHT56829.2023.10087854
+  Source: Scopus | Title: Predictive Controller Based EMS and Techno-Economics of an Electrical-Thermal Community MG
+  Source: IEEE Xplore | Title: Predictive Controller Based EMS and Techno-Economics of an Electrical-Thermal Community MG
+Duplicate DOI: 10.1109/DSN-W.2018.00072
+  Source: Scopus | Title: Prototyping Automotive Smart Ecosystems
+  Source: IEEE Xplore | Title: Prototyping Automotive Smart Ecosystems
+Duplicate DOI: 10.23919/3S60530.2024.10592289
+  Source: Scopus | Title: Secure-by-component: A System-of-systems Design Paradigm for Securing Space Missions
+  Source: IEEE Xplore | Title: Secure-by-component: A System-of-systems Design Paradigm for Securing Space Missions
+Duplicate DOI: 10.1109/ICEEE62185.2024.10779313
+  Source: Scopus | Title: System of System Architecture for Cybersecurity of Power Systems Operations
+  Source: IEEE Xplore | Title: System of System Architecture for Cybersecurity of Power Systems Operations
+Duplicate DOI: 10.1093/comjnl/bxy002
+  Source: Crossref | Title: Security Risk Assessment of Critical Infrastructure Systems: A Comparative Study
+  Source: Scopus | Title: Security risk assessment of critical infrastructure systems: A comparative study
+  Source: IEEE Xplore | Title: Security Risk Assessment of Critical Infrastructure Systems: A Comparative Study
+Duplicate DOI: 10.1109/ACCESS.2018.2887201
+  Source: Scopus | Title: Decision Provenance: Harnessing Data Flow for Accountable Systems
+  Source: IEEE Xplore | Title: Decision Provenance: Harnessing Data Flow for Accountable Systems
+Duplicate DOI: 10.1007/s13437-025-00362-z
+  Source: SpringerLink | Title: Visualisation of cyber vulnerabilities in maritime human-autonomy teaming technology
+  Source: Scopus | Title: Visualisation of cyber vulnerabilities in maritime human-autonomy teaming technology
+Duplicate DOI: 10.23919/AEIT60520.2023.10330429
+  Source: Scopus | Title: Towards a Systemic Asset Characterization of Electrical Systems for Multi-Risk Resilience
+  Source: IEEE Xplore | Title: Towards a Systemic Asset Characterization of Electrical Systems for Multi-Risk Resilience
+Duplicate DOI: 10.1109/PMAPS47429.2020.9183667
+  Source: Scopus | Title: Modeling Interdependencies with Complex Network Theory in a Combined Electrical Power and ICT System
+  Source: IEEE Xplore | Title: Modeling Interdependencies with Complex Network Theory in a Combined Electrical Power and ICT System
+Duplicate DOI: 10.1109/JSYST.2021.3064196
+  Source: Scopus | Title: Security Standard Compliance Verification in System of Systems
+  Source: IEEE Xplore | Title: Security Standard Compliance Verification in System of Systems
+Duplicate DOI: 10.1002/9781119456735.ch13
+  Source: Scopus | Title: Smart Connected Homes
+  Source: IEEE Xplore | Title: Smart Connected Homes
+Duplicate DOI: 10.1109/TASE.2022.3164860
+  Source: Scopus | Title: A Cross-Layer Design Approach to Strategic Cyber Defense and Robust Switching Control of Cyber-Physical Wind Energy Systems
+  Source: IEEE Xplore | Title: A Cross-Layer Design Approach to Strategic Cyber Defense and Robust Switching Control of Cyber-Physical Wind Energy Systems
+Duplicate DOI: 10.1109/DASC.2018.8569498
+  Source: Scopus | Title: Validating a European ATM security system architecture
+  Source: IEEE Xplore | Title: Validating a European ATM Security System Architecture
+Duplicate DOI: 10.1007/s13272-024-00733-x
+  Source: SpringerLink | Title: Can Urban Air Mobility become reality? Opportunities and challenges of UAM as innovative mode of transport and DLR contribution to ongoing research
+  Source: Scopus | Title: Can Urban Air Mobility become reality? Opportunities and challenges of UAM as innovative mode of transport and DLR contribution to ongoing research
+Duplicate DOI: 10.1109/MIE.2017.2759342
+  Source: Scopus | Title: Local Cloud Internet of Things Automation: Technology and Business Model Features of Distributed Internet of Things Automation Solutions
+  Source: IEEE Xplore | Title: Local Cloud Internet of Things Automation: Technology and Business Model Features of Distributed Internet of Things Automation Solutions
+Duplicate DOI: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics53846.2021.00029
+  Source: Scopus | Title: Protecting LoRaWan data against untrusted network servers
+  Source: IEEE Xplore | Title: Protecting LoRaWan data against untrusted network servers
+Duplicate DOI: 10.1109/PLANS53410.2023.10139999
+  Source: Scopus | Title: LEO-PNT for Augmenting Europe's Space-based PNT Capabilities
+  Source: IEEE Xplore | Title: LEO-PNT for Augmenting Europe's Space-based PNT Capabilities
+Duplicate DOI: 10.1109/ICAA58325.2023.00015
+  Source: Scopus | Title: Live Virtual Constructive Environment for Assuring the Safety and Security of Complex Autonomous Vehicles
+  Source: IEEE Xplore | Title: Live Virtual Constructive Environment for Assuring the Safety and Security of Complex Autonomous Vehicles
+Duplicate DOI: 10.1109/EuroSPW51379.2020.00087
+  Source: Scopus | Title: Defensive Programming for Smart Home Cybersecurity
+  Source: IEEE Xplore | Title: Defensive Programming for Smart Home Cybersecurity
+Duplicate DOI: 10.1109/IOTSMS53705.2021.9704977
+  Source: Scopus | Title: IoT Framework for Effective and Fine-Grain Access Control
+  Source: IEEE Xplore | Title: IoT Framework for Effective and Fine–Grain Access Control
+Duplicate DOI: 10.1201/9780429341939-12
+  Source: Scopus | Title: A Review of NAVDAT and VDES as Upgrades of Maritime Communication Systems
+  Source: Scopus | Title: A review of NAVDAT and VDES as upgrades of maritime communication systems
+Duplicate DOI: 10.1109/MITP.2018.2883858
+  Source: Scopus | Title: IoT Safety: State of the Art
+  Source: IEEE Xplore | Title: IoT Safety: State of the Art
+Duplicate DOI: 10.3390/systems13040244
+  Source: Crossref | Title: Application of Systems-of-Systems Theory to Electromagnetic Warfare Intentional Electromagnetic Interference Risk Assessment
+  Source: Scopus | Title: Application of Systems-of-Systems Theory to Electromagnetic Warfare Intentional Electromagnetic Interference Risk Assessment
+Duplicate DOI: 10.1109/DSD.2019.00076
+  Source: Scopus | Title: Local Monitoring of Embedded Applications and Devices using Artificial Neural Networks
+  Source: IEEE Xplore | Title: Local Monitoring of Embedded Applications and Devices using Artificial Neural Networks
+Duplicate DOI: 10.1109/DASC.2017.8102148
+  Source: Scopus | Title: An interconnected network of UAS as a system-of-systems
+  Source: IEEE Xplore | Title: An interconnected network of UAS as a system-of-systems
+Duplicate DOI: 10.1109/ETFA.2018.8502665
+  Source: Scopus | Title: Data-Driven Workflow Execution in Service Oriented IoT Architectures
+  Source: IEEE Xplore | Title: Data-Driven Workflow Execution in Service Oriented IoT Architectures
+Duplicate DOI: 10.1109/SYSOSE.2018.8428765
+  Source: Scopus | Title: System of systems characterisation assisting security risk assessment
+  Source: IEEE Xplore | Title: System of Systems Characterisation assisting Security Risk Assessment
+Duplicate DOI: 10.1109/SYSOSE.2018.8428778
+  Source: Scopus | Title: Irrational system behavior in a system of systems
+  Source: IEEE Xplore | Title: Irrational System Behavior in a System of Systems
+Duplicate DOI: 10.1109/SYSOSE.2018.8428776
+  Source: Scopus | Title: Extending a multi-agent systems simulation architecture for systems-of-systems security analysis
+  Source: IEEE Xplore | Title: Extending a Multi-Agent Systems Simulation Architecture for Systems-of-Systems Security Analysis
+Duplicate DOI: 10.1109/DASC.2017.8102105
+  Source: Scopus | Title: Enforcing domain segregation in unified cabin data networks
+  Source: IEEE Xplore | Title: Enforcing domain segregation in unified cabin data networks
+Duplicate DOI: 10.1109/SESoS66601.2025.00009
+  Source: Scopus | Title: Towards a SoIS model for University Surveillance
+  Source: IEEE Xplore | Title: Towards a SoIS model for University Surveillance
 Duplicate DOI: 10.1109/SPCE47297.2019.8950764
   Source: Scopus | Title: Risk management objectives for distributed development of interoperable medical products
   Source: IEEE Xplore | Title: Risk Management Objectives for Distributed Development of Interoperable Medical Products
@@ -576,195 +653,89 @@ Duplicate DOI: 10.1109/ICSRS63046.2024.10927510
 Duplicate DOI: 10.1109/SOSE62659.2024.10620955
   Source: Scopus | Title: Towards Joint SoS and Threat Mission-based Modeling for Operational Impact Identification
   Source: IEEE Xplore | Title: Towards Joint SoS and Threat Mission-based Modeling for Operational Impact Identification
-Duplicate DOI: 10.1109/THS.2017.7943512
-  Source: Scopus | Title: Analytics for smart grid cybersecurity
-  Source: IEEE Xplore | Title: Analytics for smart grid cybersecurity
 Duplicate DOI: 10.1109/MCOM.2017.1600528
   Source: Scopus | Title: IoT in Agriculture: Designing a Europe-Wide Large-Scale Pilot
   Source: IEEE Xplore | Title: IoT in Agriculture: Designing a Europe-Wide Large-Scale Pilot
 Duplicate DOI: 10.1109/SOSE62659.2024.10620925
   Source: Scopus | Title: Mapping Cyber Attacks on the Internet of Medical Things: A Taxonomic Review
   Source: IEEE Xplore | Title: Mapping Cyber Attacks on the Internet of Medical Things: A Taxonomic Review
-Duplicate DOI: 10.1109/ICNSURV.2019.8735376
-  Source: Scopus | Title: A Systems Engineering Approach to Appraise Cybersecurity Risks of CNS/ATM and Avionics Systems
-  Source: IEEE Xplore | Title: A Systems Engineering Approach To Appraise Cybersecurity Risks Of CNS/ATM and Avionics Systems
 Duplicate DOI: 10.1109/AERO.2017.7943594
   Source: Scopus | Title: An architecture for mitigating near earth object's impact to the earth
   Source: IEEE Xplore | Title: An architecture for mitigating near earth object's impact to the earth
-Duplicate DOI: 10.1109/EIT.2019.8834036
-  Source: Scopus | Title: Detection of the false data injection attack in home area networks using ANN
-  Source: IEEE Xplore | Title: Detection of the False Data Injection Attack in Home Area Networks using ANN
-Duplicate DOI: 10.1007/s11069-019-03711-3
-  Source: SpringerLink | Title: Multi-peril risk assessment for business downtime of industrial facilities
-  Source: Scopus | Title: Multi-peril risk assessment for business downtime of industrial facilities
 Duplicate DOI: 10.1109/CBMS.2016.46
   Source: Scopus | Title: A quality model for AAL software systems
   Source: IEEE Xplore | Title: A Quality Model for AAL Software Systems
-Duplicate DOI: 10.1109/INDIN41052.2019.8972250
-  Source: Scopus | Title: System of systems integration via a structured naming convention
-  Source: IEEE Xplore | Title: System of Systems integration via a structured naming convention
-Duplicate DOI: 10.1109/CSR61664.2024.10679440
-  Source: Scopus | Title: Foundations for Modelling Conscientious Attacking in Electromagnetic Cyberspace
-  Source: IEEE Xplore | Title: Foundations for Modelling Conscientious Attacking in Electromagnetic Cyberspace
 Duplicate DOI: 10.1109/SOSE62659.2024.10620969
   Source: Scopus | Title: Security and Privacy Issues in Mobility-as-a-Service (MaaS): A Systematic Review
   Source: IEEE Xplore | Title: Security and Privacy Issues in Mobility-as-a-Service (MaaS): A Systematic Review
-Duplicate DOI: 10.1109/ISSE63315.2024.10741154
-  Source: Scopus | Title: Towards an Integrated Safety-Security Ontology for System of Systems
-  Source: IEEE Xplore | Title: Towards an Integrated Safety-Security Ontology for System of Systems
-Duplicate DOI: 10.1109/SOSE55472.2022.9812676
-  Source: Scopus | Title: Cybersecurity Vulnerability Identification in System-of-Systems using Model-based Testing
-  Source: IEEE Xplore | Title: Cybersecurity Vulnerability Identification in System-of-Systems using Model-based Testing
 Duplicate DOI: 10.1109/CSCS.2017.60
   Source: Scopus | Title: Integrating Intelligent Transport Systems in a Risk Management System of Systems
   Source: IEEE Xplore | Title: Integrating Intelligent Transport Systems in a Risk Management System of Systems
 Duplicate DOI: 10.1109/APSEC.2016.023
   Source: Scopus | Title: Model driven software security architecture of systems-of-systems
   Source: IEEE Xplore | Title: Model Driven Software Security Architecture of Systems-of-Systems
-Duplicate DOI: 10.1109/COGSIMA.2018.8423969
-  Source: Scopus | Title: Modelling Complex System-Of-Systems for Creating Situation Awareness : (Late Breaking Report)
-  Source: IEEE Xplore | Title: Modelling Complex System-Of-Systems for Creating Situation Awareness : (Late Breaking Report)
 Duplicate DOI: 10.1109/JSYST.2016.2626981
   Source: Scopus | Title: Multi-Actor Value Modeling for Federated Systems
   Source: IEEE Xplore | Title: Multi-Actor Value Modeling for Federated Systems
 Duplicate DOI: 10.1109/AERO50100.2021.9438439
   Source: Scopus | Title: Digital Twin-enabled MBSE Testbed for Prototyping and Evaluating Aerospace Systems: Lessons Learned
   Source: IEEE Xplore | Title: Digital Twin-enabled MBSE Testbed for Prototyping and Evaluating Aerospace Systems: Lessons Learned
-Duplicate DOI: 10.1109/RE.2018.00033
-  Source: Scopus | Title: Morse: Reducing the feature interaction explosion problem using subject matter knowledge as abstract requirements
-  Source: IEEE Xplore | Title: Morse: Reducing the Feature Interaction Explosion Problem using Subject Matter Knowledge as Abstract Requirements
 Duplicate DOI: 10.1109/TCNS.2019.2962316
   Source: Scopus | Title: Control of Multilayer Mobile Autonomous Systems in Adversarial Environments: A Games-in-Games Approach
   Source: IEEE Xplore | Title: Control of Multilayer Mobile Autonomous Systems in Adversarial Environments: A Games-in-Games Approach
 Duplicate DOI: 10.1109/EMR.2020.3046533
   Source: Scopus | Title: Incorporating Systems Thinking into a Cyber Resilience Maturity Model
   Source: IEEE Xplore | Title: Incorporating Systems Thinking Into a Cyber Resilience Maturity Model
-Duplicate DOI: 10.1109/SOSE55472.2022.9812648
-  Source: Scopus | Title: Using the architecture of Socio-Technical System to analyse its vulnerability
-  Source: IEEE Xplore | Title: Using the architecture of Socio-Technical System to analyse its vulnerability
-Duplicate DOI: 10.1109/RE.2018.00021
-  Source: Scopus | Title: On systems of systems engineering: A requirements engineering perspective and research agenda
-  Source: IEEE Xplore | Title: On Systems of Systems Engineering: A Requirements Engineering Perspective and Research Agenda
 Duplicate DOI: 10.1109/CNS.2016.7860484
   Source: Scopus | Title: IoTSAT: A formal framework for security analysis of the internet of things (IoT)
   Source: IEEE Xplore | Title: IoTSAT: A formal framework for security analysis of the internet of things (IoT)
-Duplicate DOI: 10.23919/ICIF.2018.8455314
-  Source: Scopus | Title: A Sequential Game of Defense and Attack on an Interdependent System of Systems
-  Source: IEEE Xplore | Title: A Sequential Game of Defense and Attack on an Interdependent System of Systems
 Duplicate DOI: 10.1109/RoEduNet54112.2021.9637717
   Source: Scopus | Title: Safety and Security of Citizens in Smart Cities
   Source: IEEE Xplore | Title: Safety and Security of Citizens in Smart Cities
-Duplicate DOI: 10.1109/IV55156.2024.10588773
-  Source: Scopus | Title: Misbehaviour Detection System for Intelligent Speed Assistance (ISA)
-  Source: IEEE Xplore | Title: Misbehaviour Detection System for Intelligent Speed Assistance (ISA)
-Duplicate DOI: 10.1109/JSYST.2019.2894649
-  Source: Scopus | Title: System of System Composition Based on Decentralized Service-Oriented Architecture
-  Source: IEEE Xplore | Title: System of System Composition Based on Decentralized Service-Oriented Architecture
-Duplicate DOI: 10.23919/ICIF.2017.8009876
-  Source: Scopus | Title: Game-theoretic analysis of system of systems with inherent robustness parameters
-  Source: IEEE Xplore | Title: Game-theoretic analysis of system of systems with inherent robustness parameters
-Duplicate DOI: 10.1109/MECO49872.2020.9134336
-  Source: Scopus | Title: Decentralized, Secure and Cognitive Architecture for Automotive CyberPhysical System of Systems
-  Source: IEEE Xplore | Title: Decentralized, Secure and Cognitive Architecture for Automotive CyberPhysical System of Systems
 Duplicate DOI: 10.1109/SysCon61195.2024.10553576
   Source: Scopus | Title: Risk Analysis for System of Systems Management: The Swedish COVID-19 Management Case
   Source: IEEE Xplore | Title: Risk Analysis for System of Systems Management: The Swedish COVID-19 Management Case
-Duplicate DOI: 10.1109/SysEng.2018.8544433
-  Source: Scopus | Title: Can STPA be used for a System-of-Systems? Experiences from an Automated Quarry Site
-  Source: IEEE Xplore | Title: Can STPA be used for a System-of-Systems? Experiences from an Automated Quarry Site
 Duplicate DOI: 10.1007/s42979-023-01975-y
   Source: SpringerLink | Title: DAEMON: A Domain-Based Monitoring Ontology for IoT Systems
   Source: Scopus | Title: DAEMON: A Domain-Based Monitoring Ontology for IoT Systems
-Duplicate DOI: 10.1109/RE.2018.00061
-  Source: Scopus | Title: Assessing security risk and requirements for systems of systems
-  Source: IEEE Xplore | Title: Assessing Security Risk and Requirements for Systems of Systems
 Duplicate DOI: 10.1109/SEAMS59076.2023.00034
   Source: Scopus | Title: A Distributed MAPE-K Framework for Self-Protective IoT Devices
   Source: IEEE Xplore | Title: A Distributed MAPE-K Framework for Self-Protective IoT Devices
-Duplicate DOI: 10.1109/SysEng.2018.8544441
-  Source: Scopus | Title: System engineering in an unknown aerial environment for a communications system
-  Source: IEEE Xplore | Title: System Engineering in an Unknown Aerial Environment for a Communications System
-Duplicate DOI: 10.1109/TNSE.2025.3555384
-  Source: Scopus | Title: Link-Centric Research on the Capability Resilience of Heterogeneous Information Combat Networks
-  Source: IEEE Xplore | Title: Link-Centric Research on the Capability Resilience of Heterogeneous Information Combat Networks
 Duplicate DOI: 10.1109/SysCon61195.2024.10553560
   Source: Scopus | Title: Risk ontology development from a system of systems framework for engineering projects
   Source: IEEE Xplore | Title: Risk ontology development from a system of systems framework for engineering projects
-Duplicate DOI: 10.1109/EWDTS.2019.8884447
-  Source: Scopus | Title: Researching resilience a holistic approach
-  Source: IEEE Xplore | Title: Researching Resilience a Holistic Approach
 Duplicate DOI: 10.1109/MECO.2017.7977210
   Source: Scopus | Title: Cooperative safety critical CPS platooning in SafeCOP
   Source: IEEE Xplore | Title: Cooperative safety critical CPS platooning in SafeCOP
-Duplicate DOI: 10.23919/ICCAS55662.2022.10003919
-  Source: Scopus | Title: Empowering The Eclipse Arrowhead Framework with a Digital Twin as a Proxy Service
-  Source: IEEE Xplore | Title: Empowering The Eclipse Arrowhead Framework with a Digital Twin as a Proxy Service
-Duplicate DOI: 10.1109/SMC-IT56444.2023.00021
-  Source: Scopus | Title: A Hybrid Space Architecture for Robust and Resilient Satellite Services
-  Source: IEEE Xplore | Title: A Hybrid Space Architecture for Robust and Resilient Satellite Services
-Duplicate DOI: 10.1145/3524844.3528067
-  Source: Scopus | Title: From Systems to Ecosystems: Rethinking Adaptive Safety
-  Source: IEEE Xplore | Title: From Systems to Ecosystems: Rethinking Adaptive Safety
 Duplicate DOI: 10.1109/ICRA46639.2022.9811549
   Source: Scopus | Title: A Colored Petri Net Model for Control Problem of Border Crossing Under Constraints
   Source: IEEE Xplore | Title: A Colored Petri Net Model for Control Problem of Border Crossing Under Constraints
-Duplicate DOI: 10.1109/RE.2017.48
-  Source: Scopus | Title: Identifying Conflicting Requirements in Systems of Systems
-  Source: IEEE Xplore | Title: Identifying Conflicting Requirements in Systems of Systems
-Duplicate DOI: 10.1109/ICTIS60134.2023.10243800
-  Source: Scopus | Title: Research on Cyber-Physical Fusion Test and Verification for Remote-Controlled Ship
-  Source: IEEE Xplore | Title: Research on Cyber-Physical Fusion Test and Verification for Remote-Controlled Ship
 Duplicate DOI: 10.1109/NOMS59830.2024.10575845
   Source: Scopus | Title: Co-pilots for Arrowhead-based Cyber-Physical System of Systems Engineering
   Source: IEEE Xplore | Title: Co-pilots for Arrowhead-based Cyber-Physical System of Systems Engineering
 Duplicate DOI: 10.1109/CoDIT.2016.7593542
   Source: Scopus | Title: Critical infrastructure automated immuno-response system (CIAIRS)
   Source: IEEE Xplore | Title: Critical infrastructure automated immuno-response system (CIAIRS)
-Duplicate DOI: 10.1109/MCSE.2016.108
-  Source: Scopus | Title: Risk-Based Software Development Practices for CREATE Multiphysics HPC Software Applications
-  Source: IEEE Xplore | Title: Risk-Based Software Development Practices for CREATE Multiphysics HPC Software Applications
-Duplicate DOI: 10.1109/SYSCON.2017.7934780
-  Source: Scopus | Title: Reengineering autonomic components in legacy software systems: A case study
-  Source: IEEE Xplore | Title: Reengineering autonomic components in legacy software systems: A case study
-Duplicate DOI: 10.1109/SYSCON.2017.7934783
-  Source: Scopus | Title: Analyzing hazards in system-of-systems: Described in a quarry site automation context
-  Source: IEEE Xplore | Title: Analyzing hazards in system-of-systems: Described in a quarry site automation context
 Duplicate DOI: 10.1109/IECON.2019.8927423
   Source: Scopus | Title: Reengineering the lifecycle of Arrowhead applications: From skeletons to the client library
   Source: IEEE Xplore | Title: Reengineering the lifecycle of Arrowhead applications: from skeletons to the client library
-Duplicate DOI: 10.1109/CISS59072.2024.10480201
-  Source: Scopus | Title: Needle-in-the-Haystack: On Automatic Risk-based Searching to Stop Cyber-Physical Threats in Large-Scale Power Systems
-  Source: IEEE Xplore | Title: Needle-in-the-Haystack: On Automatic Risk-based Searching to Stop Cyber-Physical Threats in Large-Scale Power Systems
-Duplicate DOI: 10.1007/s10669-023-09931-0
-  Source: SpringerLink | Title: Supply/demand interface for disaster resilience assessment of interdependent infrastructure systems considering privacy and security concerns
-  Source: Scopus | Title: Supply/demand interface for disaster resilience assessment of interdependent infrastructure systems considering privacy and security concerns
-Duplicate DOI: 10.23919/SoftCOM50211.2020.9238329
-  Source: Scopus | Title: Towards Creation of Automated Prediction Systems for Trust and Dependability Evaluation
-  Source: IEEE Xplore | Title: Towards Creation of Automated Prediction Systems for Trust and Dependability Evaluation
 Duplicate DOI: 10.1109/PIICON56320.2022.10045162
   Source: Scopus | Title: A Techno-Economic Feasibility Studies of an Off-Grid Community MG Using Predictive Control
   Source: IEEE Xplore | Title: A Techno-Economic Feasibility Studies of an Off-Grid Community MG Using Predictive Control
-Duplicate DOI: 10.1109/RAMS48127.2025.10935048
-  Source: Scopus | Title: Establishing Common Values in Design for Sustainability
-  Source: IEEE Xplore | Title: Establishing Common Values in Design for Sustainability
-Duplicate DOI: 10.23919/MIXDES58562.2023.10203211
-  Source: Scopus | Title: From Embedded to AI-powered Cyberphysical Systems and Beyond
-  Source: IEEE Xplore | Title: From Embedded to AI-powered Cyberphysical Systems and Beyond
 Duplicate DOI: 10.1109/ICCVE45908.2019.8965092
   Source: Scopus | Title: Safety & security in the context of autonomous driving
   Source: IEEE Xplore | Title: Safety & Security in the Context of Autonomous Driving
 Duplicate DOI: 10.1109/MPOT.2018.2824858
   Source: Scopus | Title: Exploiting Advances in Video Analytics to Support Military Operations and Related Applications
   Source: IEEE Xplore | Title: Exploiting Advances in Video Analytics to Support Military Operations and Related Applications
-Duplicate DOI: 10.3850/978-981-14-8593-0_3728-cd
-  Source: Scopus | Title: Certification cycles of train cyber gateway
-  Source: Scopus | Title: Certification cycles of train cyber gateway
           | IEEE Xplore    Scopus         SpringerLink   Crossref       
 -------------------------------------------------------------------------------------------------------------------
-IEEE Xplore | 228            228            0              0              
-Scopus    | 228            290            15             2              
+IEEE Xplore | 217            217            0              1              
+Scopus    | 217            276            15             4              
 SpringerLink | 0              15             15             0              
-Crossref  | 0              2              0              2              
-NBR empty : 139
-NBR dup : 254
-Exported 2970 articles to AllArticles-removeDup.pdf after removing duplications
+Crossref  | 1              4              0              4              
+NBR empty : 131
+NBR dup : 244
+Exported 3443 articles to AllArticles-removeDup.pdf after removing duplications
+
+Process finished with exit code 0
