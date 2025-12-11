@@ -8,8 +8,8 @@ It is part of a **Systematic Literature Review (SLR)**.
 ## 📖 Features
 
 - Fetch publications from the **Springer, ELSEVIER, IEEE, Web of Science, and CrossRef APIs**.
-- Filter results based on keywords, dates, or publication type.
-- Export data for further analysis in pdf formats.
+- Filter results based on Queries, keywords, dates, or publication type.
+- Export data for further analysis in XLSX/PDF format.
 - Designed for **Systematic Literature Reviews**.
 
 ---
@@ -45,7 +45,7 @@ After building, you will find the executable JAR in the target/ folder.
 
 ### 3. Results
 
-AllArticles.xlsx represents all papers fetched.
-py.py Python script to remove duplications and result in clean_output.xlsx file.
-Selected papers in Selected.xlsx
+- AllArticles.xlsx represents all papers fetched.
+- py.py Python script to remove duplications and result in clean_output.xlsx file.
+- Selected papers in Selected.xlsx
 
