@@ -1,0 +1,130 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f967c926-a66f-4095-ae73-0df8f98a76f0\" name=\"Changes\" comment=\"Last commit\">\r\n      <change beforePath=\"D:/findPapers/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"D:/findPapers/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/AllArticles-removeDup.pdf\" beforeDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/AllArticles.pdf\" beforeDir=\"false\" afterPath=\"D:/findPapers/AllArticles.pdf\" afterDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/README.md\" beforeDir=\"false\" afterPath=\"D:/findPapers/README.md\" afterDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/output.txt\" beforeDir=\"false\" afterPath=\"D:/findPapers/output.txt\" afterDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/pom.xml\" beforeDir=\"false\" afterPath=\"D:/findPapers/pom.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/src/main/java/org/example/Main.java\" beforeDir=\"false\" afterPath=\"D:/findPapers/src/main/java/org/findp/Main.java\" afterDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/target/classes/org/example/Main$1.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/target/classes/org/example/Main$Article.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/target/classes/org/example/Main.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/target/classes/org/example/SslUtil$1.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"D:/findPapers/target/classes/org/example/SslUtil.class\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"D:/findPapers\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;mohamedsch&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/mohamedsch/findPapers.git&quot;,\r\n    &quot;accountId&quot;: &quot;dc7b5e69-2eb5-40dd-80b6-23cddba0e019&quot;\r\n  }\r\n}</component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"userSettingsFile\" value=\"C:\\Users\\cherchar.mohamed\\.m2\\settings-spring.xml\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2xMa7bgQpGcEhsc9mrCgwSKKG4k\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.Main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Maven.findPapers [clean].executor&quot;: &quot;Run&quot;,\r\n    &quot;Maven.findPapers [install].executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/cherchar.mohamed/Desktop/Nouveau dossier/hissab/SIFC-web&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.findp.Main\" />\r\n      <module name=\"findPapers\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"D:/findPapers\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.findp.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f967c926-a66f-4095-ae73-0df8f98a76f0\" name=\"Changes\" comment=\"\" />\r\n      <created>1747750231420</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1747750231420</updated>\r\n      <workItem from=\"1747750233511\" duration=\"2524000\" />\r\n      <workItem from=\"1748438455205\" duration=\"2706000\" />\r\n      <workItem from=\"1748513697163\" duration=\"330000\" />\r\n      <workItem from=\"1748514055841\" duration=\"7107000\" />\r\n      <workItem from=\"1748524704805\" duration=\"2078000\" />\r\n      <workItem from=\"1748528215507\" duration=\"2000\" />\r\n      <workItem from=\"1748762309298\" duration=\"12409000\" />\r\n      <workItem from=\"1749463568943\" duration=\"4431000\" />\r\n      <workItem from=\"1750144468923\" duration=\"22600000\" />\r\n      <workItem from=\"1750250852345\" duration=\"122000\" />\r\n      <workItem from=\"1756199031421\" duration=\"6010000\" />\r\n      <workItem from=\"1756803660851\" duration=\"164000\" />\r\n      <workItem from=\"1763541674278\" duration=\"7971000\" />\r\n      <workItem from=\"1763583478682\" duration=\"5467000\" />\r\n      <workItem from=\"1763624976439\" duration=\"16760000\" />\r\n      <workItem from=\"1764073993424\" duration=\"873000\" />\r\n      <workItem from=\"1764077575393\" duration=\"40000\" />\r\n      <workItem from=\"1764661535973\" duration=\"2190000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Last commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756205135665</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756205135665</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Last commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Last commit\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://D:/findPapers/src/main/java/org/findp/Main.java</url>\r\n          <line>434</line>\r\n          <option name=\"timeStamp\" value=\"3\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5455af5746c4c3037b63dd7ce77c4042adae91ea)
++++ b/.idea/workspace.xml	(date 1766311222679)
+@@ -5,18 +5,18 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="f967c926-a66f-4095-ae73-0df8f98a76f0" name="Changes" comment="Last commit">
+-      <change beforePath="D:/findPapers/.idea/workspace.xml" beforeDir="false" afterPath="D:/findPapers/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="D:/findPapers/AllArticles-removeDup.pdf" beforeDir="false" />
+-      <change beforePath="D:/findPapers/AllArticles.pdf" beforeDir="false" afterPath="D:/findPapers/AllArticles.pdf" afterDir="false" />
+-      <change beforePath="D:/findPapers/README.md" beforeDir="false" afterPath="D:/findPapers/README.md" afterDir="false" />
+-      <change beforePath="D:/findPapers/output.txt" beforeDir="false" afterPath="D:/findPapers/output.txt" afterDir="false" />
+-      <change beforePath="D:/findPapers/pom.xml" beforeDir="false" afterPath="D:/findPapers/pom.xml" afterDir="false" />
+-      <change beforePath="D:/findPapers/src/main/java/org/example/Main.java" beforeDir="false" afterPath="D:/findPapers/src/main/java/org/findp/Main.java" afterDir="false" />
+-      <change beforePath="D:/findPapers/target/classes/org/example/Main$1.class" beforeDir="false" />
+-      <change beforePath="D:/findPapers/target/classes/org/example/Main$Article.class" beforeDir="false" />
+-      <change beforePath="D:/findPapers/target/classes/org/example/Main.class" beforeDir="false" />
+-      <change beforePath="D:/findPapers/target/classes/org/example/SslUtil$1.class" beforeDir="false" />
+-      <change beforePath="D:/findPapers/target/classes/org/example/SslUtil.class" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/AllArticles-removeDup.pdf" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/AllArticles.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/AllArticles.pdf" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/findp/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main$1.class" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main$Article.class" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/org/example/SslUtil$1.class" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/org/example/SslUtil.class" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -31,7 +31,7 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="D:/findPapers" />
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+   &quot;lastFilter&quot;: {
+@@ -83,7 +83,7 @@
+     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="org.findp.Main" />
+       <module name="findPapers" />
+-      <option name="WORKING_DIRECTORY" value="D:/findPapers" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="org.findp.*" />
+@@ -94,11 +94,6 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <recent_temporary>
+-      <list>
+-        <item itemvalue="Application.Main" />
+-      </list>
+-    </recent_temporary>
+   </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+@@ -134,6 +129,7 @@
+       <workItem from="1764073993424" duration="873000" />
+       <workItem from="1764077575393" duration="40000" />
+       <workItem from="1764661535973" duration="2190000" />
++      <workItem from="1765446549582" duration="1807000" />
+     </task>
+     <task id="LOCAL-00001" summary="Last commit">
+       <option name="closed" value="true" />
+@@ -157,7 +153,7 @@
+     <breakpoint-manager>
+       <breakpoints>
+         <line-breakpoint enabled="true" type="java-line">
+-          <url>file://D:/findPapers/src/main/java/org/findp/Main.java</url>
++          <url>file://$PROJECT_DIR$/src/main/java/org/findp/Main.java</url>
+           <line>434</line>
+           <option name="timeStamp" value="3" />
+         </line-breakpoint>
+Index: .idea/findPapers.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/findPapers.iml b/.idea/findPapers.iml
+new file mode 100644
+--- /dev/null	(date 1766311222613)
++++ b/.idea/findPapers.iml	(date 1766311222613)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/temp" />
++      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
++      <excludeFolder url="file://$MODULE_DIR$/tmp" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1766311222653)
++++ b/.idea/modules.xml	(date 1766311222653)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/findPapers.iml" filepath="$PROJECT_DIR$/.idea/findPapers.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
