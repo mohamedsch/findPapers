@@ -1,6 +1,6 @@
 # FindPapers
 
-This project is a **Command Line Interface (CLI) tool** developed in **Java** for interacting with the **Springer, ELSEVIER, IEEE, Web of Science, and CrossRef APIs**.  
+This project is a **Tool** developed in **Java** for interacting with the **Springer, ELSEVIER, IEEE, Web of Science, and CrossRef APIs**.  
 It is part of a **Systematic Mapping Study (SMS)**.
 
 ---
